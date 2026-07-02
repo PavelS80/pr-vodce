@@ -1,0 +1,34 @@
+{
+  "id": "audit-all",
+  "type": "audit",
+  "flags": [
+    {
+      "seg_id": "seg-05",
+      "claim": "Karel IV. zalozil roku 1348 univerzitu, prvni ve stredni Evrope, ctyriasedmdesat let pred Vidni (narration_cz/en).",
+      "issue": "Vecna ciselna chyba uvedena jako fakt. Prazska univerzita (1348) predesla videnskou (zalozena 1365 Rudolfem IV.) o cca 17 let, ne o 74. Cast 'prvni ve stredni Evrope' je spravna, ale udaj '74 let pred Vidni' je o rad mimo a neni nikde oznacen ani opraven (ani v guide_stories, ani ve fact_flags). Overeno webem: Univerzita Karlova 1348, Universitat Wien 1365.",
+      "suggested_label": "over rucne",
+      "severity": "stredni"
+    },
+    {
+      "seg_id": "seg-09",
+      "claim": "Jezuita Antonin Konias se pry chlubil, ze spalil pres tricet tisic ceskych knih (narration_cz/en).",
+      "issue": "Cislo 30 000 je tradovane a mezi historiky nejiste az nadsazene. V narration je sice uvozeno slovem 'pry', ale samotny udaj neni rozebran ve fact_flags ani opatren statusem a stoji vedle dolozenych fakt jako rovnocenne cislo. Zaslouzi explicitni oznaceni nebo zmirneni.",
+      "suggested_label": "nejiste",
+      "severity": "nizka"
+    },
+    {
+      "seg_id": "seg-09",
+      "claim": "Cestina mizi ze skol, z uradu, z literatury... prezivá jen na venkove, v ustech sedlaku (narration_cz/en).",
+      "issue": "Romanticka obrozenecka interpretace podana jako fakt. Po Bile hore cestina z literatury nezmizela (existovala barokni ceska produkce) a nebyla jen 'v ustech sedlaku' - mluvila ji vetsina obyvatel. Segment 8 sam pojem 'Temno' nuancuje, segment 9 ho ale prebira nekriticky a tuto pasaz neoznacuje jako interpretaci.",
+      "suggested_label": "interpretace",
+      "severity": "nizka"
+    },
+    {
+      "seg_id": "seg-01",
+      "claim": "Matematik Bernard Bolzano spocital prazske veze a dosel ke stu trem (103); v guide_stories status 'dolozeno'.",
+      "issue": "Ze prave Bolzano veze fyzicky spocital a dosel presne ke 103, je populárne tradovane (kudyznudy, CT24, prahaneznama), ale jde spis o ustalenou historku nez tvrde archivne dolozeny fakt. Status 'dolozeno' muze byt prilis silny. Oddeleni Bolzano-pocital / Hormayer-pojmenoval je samo o sobe spravne; jen pripsani konkretniho cisla a aktu pocitani Bolzanovi by chtelo overit.",
+      "suggested_label": "over rucne",
+      "severity": "nizka"
+    }
+  ]
+}

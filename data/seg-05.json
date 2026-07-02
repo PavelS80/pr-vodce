@@ -1,0 +1,178 @@
+{
+  "id": "seg-05",
+  "type": "segment",
+  "order": 5,
+  "title_cz": "Karel IV. - zlatý věk Prahy",
+  "title_en": "Charles IV - the golden age of Prague",
+  "where_cz": "Karlův most, u Staroměstské mostecké věže — s výhledem na most, řeku a věže Malé Strany",
+  "where_en": "Charles Bridge, by the Old Town Bridge Tower — overlooking the bridge, the river and the Lesser Town towers",
+  "narration_cz": "Tady se na chvíli zastavíme a já vám položím jednu otázku. Co spojuje Karlův most, Karlovu univerzitu, Karlovo náměstí, Karlštejn, Karlovy Vary i celé Nové Město pražské? Jediný muž. Karel Čtvrtý. A teď to nejlepší — zvládl to za necelých dvaatřicet let na trůně. Když dnes projdete historickou Prahou a podíváte se prakticky na cokoli, je velká šance, že to nechal postavit on.\n\nNarodil se přímo tady, v Praze, čtrnáctého května 1316. A pozor — nejmenoval se Karel. Pokřtili ho Václav, po dědečkovi. Když mu bylo sedm, otec ho poslal na francouzský královský dvůr, tehdy nejskvělejší v Evropě. Vrátil se jako úplně jiný člověk: vzdělaný, sebevědomý, mluvil pěti jazyky — česky, francouzsky, německy, latinsky a italsky. Jméno Karel přijal po svém kmotrovi, francouzském králi. Jedna drobnost — mateřštinu, češtinu, mezitím v té Paříži zapomněl a po návratu se ji musel učit úplně znovu. Největší Čech historie se musel doučit česky.\n\nA teď si představte rok 1348. Evropou se valí černá smrt, mor kosí třetinu kontinentu. A Karel? Karel v Praze zakládá. Nové Město pražské — ulice široké šestadvacet metrů, tři velká náměstí, největší urbanistický projekt středověku. Téhož roku zakládá univerzitu, první ve střední Evropě, sedmnáct let před Vídní. A do třetice začíná stavět Karlštejn. Tři monumentální činy v jediném roce. Průvodci to tady říkají takhle: v roce 1348 udělal Karel pro Prahu víc než celé generace před ním i po něm.\n\nPraha mu vyrostla na nějakých čtyřicet tisíc obyvatel — třetí největší město Evropy, hned po Římě a Konstantinopoli. To si nechte chvíli na jazyku.\n\nA ta stavba pod námi? Karlův most. Podle legendy si Karel nechal od astrologů spočítat ten nejšťastnější okamžik pro položení základního kamene. Devátého července 1357 v pět hodin a jednatřicet minut ráno. Napište ta čísla v řadě: jedna-tři-pět-sedm-devět-sedm-pět-tři-jedna. Palindrom. Zleva i zprava stejně. Most stojí dodnes — přes šest set šedesát let. Háček? Ve čtrnáctém století se počítalo v juliánském kalendáři, římskými číslicemi, a minuty nikdo neměřil. Karlovi by ten palindrom v arabských číslech neřekl vůbec nic. Ale jako historka? Nesmrtelná.\n\nKarel umřel v roce 1378, bylo mu dvaašedesát. Na pohřbu ho kazatel poprvé nazval Pater Patriae — Otec vlasti. Ten titul mu zůstal dodnes. A v roce 2005 ho diváci České televize zvolili největším Čechem všech dob. Jen taková perlička — vedl Jára Cimrman, vymyšlený génius, a organizátoři ho museli z hlasování vyřadit. Jinak by Otec vlasti prohrál s postavou, která nikdy neexistovala. I to je Česko.",
+  "narration_en": "Let's pause here for a moment, because I have a question for you. What do Charles Bridge, Charles University, Charles Square, Karlštejn Castle, the spa town of Karlovy Vary, and the entire New Town of Prague have in common? One man. Charles the Fourth. And here's the kicker — he managed all of it in under thirty-two years on the throne. Walk through old Prague today, look at almost anything, and the odds are good that he's the one who built it.\n\nHe was born right here in Prague, on the fourteenth of May, 1316. And — small surprise — he wasn't christened Charles at all. He was christened Václav, after his grandfather. When he was seven, his father packed him off to the French royal court, the most brilliant in Europe at the time. He came back a transformed man: polished, self-assured, fluent in five languages — Czech, French, German, Latin, and Italian. He took the name Charles from his godfather, the King of France. One small detail: somewhere along the way in Paris he forgot his own mother tongue, and on his return he had to learn Czech all over again. The greatest Czech in history had to take remedial Czech.\n\nNow picture the year 1348. The Black Death is rolling across Europe, wiping out a third of the continent. And Charles? Charles is in Prague, building. The New Town — streets twenty-six metres wide, three great squares, the largest urban-planning project of the Middle Ages. That same year he founds the university, the first in Central Europe, seventeen years before Vienna would have one. And, for good measure, he begins Karlštejn Castle. Three monumental acts in a single year. The guides here put it simply: in 1348, Charles did more for Prague than whole generations before him or after him.\n\nUnder him, Prague swelled to some forty thousand people — the third largest city in Europe, right behind Rome and Constantinople. Let that one sit on your tongue for a moment.\n\nAnd this structure beneath us? Charles Bridge. Legend says Charles had his astrologers calculate the single luckiest moment to lay the foundation stone: the ninth of July, 1357, at thirty-one minutes past five in the morning. Write the figures in a row — one-three-five-seven-nine-seven-five-three-one. A palindrome. The same forwards and backwards. The bridge has stood for over six hundred and sixty years. The catch? In the fourteenth century they kept the Julian calendar in Roman numerals, and nobody measured minutes. So that Arabic-numeral palindrome would have meant absolutely nothing to Charles. But as a story? Immortal.\n\nCharles died in 1378, aged sixty-two. At his funeral a preacher called him, for the very first time, Pater Patriae — Father of the Homeland. The title has clung to him ever since. And in 2005, Czech Television viewers voted him the greatest Czech of all time. One last wink: the man leading the poll was Jára Cimrman, an invented genius, and the organisers had to disqualify him. Otherwise the Father of the Homeland would have lost to someone who never existed. That, too, is the Czech Republic.",
+  "guide_stories": [
+    {
+      "cz": "Palindrom Karlova mostu: 9. července 1357 v 5:31 ráno prý Karel IV. osobně určil čas pokládání základního kamene mostu. Čísla 1-3-5-7-9-7-5-3-1 tvoří palindrom — čte se stejně zleva i zprava. Astrologové mu prý ten magický okamžik doporučili pro věčnou stavbu.",
+      "en": "The palindrome of Charles Bridge: on the ninth of July 1357 at thirty-one minutes past five in the morning, Charles IV supposedly chose the precise moment to lay the cornerstone. The digits 1-3-5-7-9-7-5-3-1 form a palindrome — the same forwards and backwards. His astrologers reportedly picked this magical moment for an eternal structure.",
+      "status": "legenda",
+      "note_cz": "Ve 14. stol. se užíval juliánský kalendář s římskými číslicemi a minuty se neměřily. Palindrom v arabských číslicích je anachronismus — Karlovi by nic neřekl. Most skutečně začal vznikat roku 1357 (řídil ho Petr Parléř), ale čas 5:31 historicky doložen není. Zdroje: irozhlas.cz, poznatsvet.cz, freewalkingtourprague.eu."
+    },
+    {
+      "cz": "Vejce v maltě: do malty Karlova mostu se prý pro pevnost přidávala syrová vejce. Podle pověsti jedna vesnice poslala vejce předvařená, aby se po cestě nerozbila — a malta pak logicky nevytuhla, jak měla.",
+      "en": "Eggs in the mortar: raw eggs were supposedly mixed into the mortar of Charles Bridge to strengthen it. The legend goes that one village, afraid the eggs would break on the road, sent them hard-boiled — and that stretch of mortar, naturally, never set as it should.",
+      "status": "legenda",
+      "note_cz": "Tradiční průvodcovská historka bez historického doložení. Moderní analýzy malty Karlova mostu vejce nepotvrdily. Průvodci ji přesto rádi vyprávějí — je srozumitelná a nezapomenutelná."
+    },
+    {
+      "cz": "Pokřtili ho Václav: budoucí císař se původně jmenoval Václav, po dědečkovi z matčiny strany. Jméno Karel přijal na francouzském dvoře při biřmování — po svém strýci a kmotrovi, francouzském králi Karlu IV. Nejmocnější Čech historie tak celý život nosil jméno francouzského krále.",
+      "en": "Christened Václav: the future emperor was originally named Václav, after his maternal grandfather. He took the name Charles at the French court during his confirmation — after his uncle and godfather, the French king Charles IV. So the most powerful Czech in history spent his life bearing a French king's name.",
+      "status": "doloženo",
+      "note_cz": "Historicky doloženo. Biřmovací jméno Karel přijal na francouzském dvoře okolo roku 1323. Zdroje: Wikipedia CS, private-prague-guide.com."
+    },
+    {
+      "cz": "Musel se doučit česky: ze sedmiletého pobytu ve Francii se Karel vrátil se vším možným — kromě mateřštiny. Češtinu v Paříži zapomněl a po návratu do Čech se ji musel naučit znovu. Otec vlasti, který si později češtinu hluboko vážil, ji nejdřív musel dohnat.",
+      "en": "He had to relearn Czech: from seven years in France, Charles came back with everything — except his mother tongue. He had forgotten Czech in Paris and had to learn it from scratch on his return. The Father of the Homeland, who later prized the Czech language, first had some catching up to do.",
+      "status": "doloženo",
+      "note_cz": "Doloženo z dobových i odborných zdrojů (J. Hasil, Univerzita Karlova). Karel po návratu uváděl češtinu na prvním místě, ale po dlouhém pobytu v cizině se ji musel znovu naučit. Zdroj: dspace.cuni.cz, ceskykralovskyinstitut.cz."
+    },
+    {
+      "cz": "Otec vlasti — titul z pohřbu: Karel ho nedostal za života, ale až po smrti. Kazatel Vojtěch Raňkův z Ježova ho v pohřebním kázání v listopadu 1378 poprvé nazval Pater Patriae. A ten titul mu zůstal už víc než 640 let.",
+      "en": "Father of the Homeland — a title from the funeral: Charles never received it in life, only after death. In his funeral sermon in November 1378, the preacher Vojtěch Raňkův (Adalbertus Ranconis) called him Pater Patriae for the first time. And the title has stuck for over six hundred and forty years.",
+      "status": "doloženo",
+      "note_cz": "Historicky doloženo. Pater Patriae poprvé použil v pohřebním kázání pařížský mistr Vojtěch Raňkův z Ježova (Albertus Ranconis de Ericinio). Zdroje: Wikipedia EN/CS, private-prague-guide.com."
+    },
+    {
+      "cz": "Největší Čech — a Jára Cimrman: v anketě ČT 2005 zvítězil Karel IV. s 68 713 hlasy. Jenže organizátoři museli z hlasování vyřadit fiktivní postavu Járy Cimrmana, který vedl. Nebýt toho, Otec vlasti by prohrál s vymyšleným géniem.",
+      "en": "The Greatest Czech — and Jára Cimrman: in the 2005 Czech Television poll Charles IV won with 68,713 votes. But the organisers had to disqualify a fictional character, Jára Cimrman, who was leading. Without that, the Father of the Homeland would have lost to an invented genius.",
+      "status": "doloženo",
+      "note_cz": "Fakta ověřena. Anketa ČT 2005; Jára Cimrman vyřazen jako fiktivní postava; Karel IV. zvítězil před T. G. Masarykem (55 040 hlasů). Zdroj: ceskatelevize.cz, Wikipedia."
+    },
+    {
+      "cz": "Karlovy Vary a jelen: Karel IV. prý objevil léčivé prameny náhodou při lovu. Štvaný jelen skočil do horké vody a zranění se mu zahojila. Karel, který trpěl dnou, prameny uvěřil a dal založit lázeňské město, jež dnes nese jeho jméno.",
+      "en": "Karlovy Vary and the stag: Charles IV reportedly discovered the healing springs by chance while hunting. A hunted stag leapt into the hot water and its wounds healed. Charles, who suffered from gout, became a believer and founded the spa town that still bears his name.",
+      "status": "legenda",
+      "note_cz": "Tradiční legenda bez doložení. Doloženo je, že Karel IV. dal Karlovým Varům městská práva a město rozvíjel. Zdroj: private-prague-guide.com."
+    },
+    {
+      "cz": "Rok 1348, tři velké činy: Nové Město pražské (zakládací listina 8. března), Karlova univerzita (7. dubna) a Karlštejn (zahájeno téhož roku). To vše ve stejném roce, kdy se Evropou valila černá smrt.",
+      "en": "The year 1348, three great acts: the New Town of Prague (charter of the eighth of March), Charles University (the seventh of April), and Karlštejn Castle (begun that same year). All while the Black Death was sweeping across Europe.",
+      "status": "doloženo",
+      "note_cz": "Doloženo. Zakládací listina Nového Města 8. 3. 1348, univerzity 7. 4. 1348; Karlštejn založen 1348. Zdroje: praguemorning.cz, visitczechia.com, Wikipedia CS."
+    },
+    {
+      "cz": "Koruna za sedmi zámky: pro svou korunovaci roku 1347 si Karel nechal vyrobit svatováclavskou korunu, dnes uloženou v korunní komoře u svatovítské katedrály. Dveře i schránka mají sedm zámků a klíče drží sedm lidí — prezident, premiér, pražský arcibiskup, předsedové obou komor parlamentu, primátor Prahy a děkan svatovítské kapituly. Ke koruně se dostanou jen tehdy, když se sejdou všichni.",
+      "en": "A crown behind seven locks: for his coronation in 1347 Charles had the Crown of Saint Wenceslas made, today kept in the crown chamber at St Vitus Cathedral. The door and the strongbox each have seven locks, and seven people hold the keys — the President, the Prime Minister, the Archbishop of Prague, the chairmen of both houses of parliament, the Mayor of Prague and the Dean of the St Vitus Chapter. They can reach the crown only when all of them gather.",
+      "status": "doloženo",
+      "note_cz": "Doloženo. Svatováclavská koruna vznikla 1347 pro korunovaci Karla IV.; sedm klíčů a sedm držitelů je dnešní bezpečnostní režim. Zdroje: hrad.cz, prague.today."
+    },
+    {
+      "cz": "Katedrála, kterou Karel hotovou nikdy neviděl: povolal architekta Petra Parléře a začal stavět svatovítskou katedrálu. Dostavěna byla... až roku 1929. Skoro šest set let. Takže velká část té gotické fasády, kterou dnes obdivujete, je vlastně novodobá — Karel by ji v téhle podobě nepoznal.",
+      "en": "The cathedral Charles never saw finished: he summoned the architect Peter Parler and began St Vitus Cathedral. It was completed... in 1929. Nearly six hundred years. So much of the Gothic facade you admire today is in fact modern — Charles wouldn't recognise it in this form.",
+      "status": "doloženo",
+      "note_cz": "Doloženo. Stavba zahájena 1344 (Matyáš z Arrasu, poté Petr Parléř), dostavěna 1929. Zdroje: Wikipedia, hrad.cz."
+    }
+  ],
+  "key_phrases": [
+    {
+      "cz": "V roce 1348 udělal Karel IV. pro Prahu víc než celé generace před ním i po něm.",
+      "en": "In the year 1348, Charles IV did more for Prague than whole generations before him or after him."
+    },
+    {
+      "cz": "Podíváte se v Praze prakticky na cokoli — a postavil to jeden muž.",
+      "en": "Look at almost anything in Prague — and one man built it."
+    },
+    {
+      "cz": "Pokřtili ho Václav — a největší Čech historie se musel doučit vlastní mateřštinu.",
+      "en": "He was christened Václav — and the greatest Czech in history had to take remedial lessons in his own mother tongue."
+    },
+    {
+      "cz": "1-3-5-7-9-7-5-3-1. Most, který stojí 660 let, a palindrom, který nikdo nezapomene.",
+      "en": "1-3-5-7-9-7-5-3-1. A bridge that has stood six hundred and sixty years, and a palindrome nobody ever forgets."
+    },
+    {
+      "cz": "Praha tehdy třetí největší město Evropy. To si nechte chvíli na jazyku.",
+      "en": "Prague back then: the third largest city in Europe. Let that one sit on your tongue for a moment."
+    },
+    {
+      "cz": "Koruna za sedmi zámky, sedm klíčů, sedm lidí — a všichni se musí sejít.",
+      "en": "A crown behind seven locks, seven keys, seven people — and all of them must gather to open it."
+    },
+    {
+      "cz": "Otec vlasti — titul, který dostal až na pohřbu. A zůstal mu dodnes.",
+      "en": "Father of the Homeland — a title he received only at his funeral. And it has stayed with him ever since."
+    },
+    {
+      "cz": "Největší Čech historie — a málem prohrál s postavou, která nikdy neexistovala.",
+      "en": "The greatest Czech in history — and he nearly lost to someone who never existed."
+    }
+  ],
+  "transition_cz": "Karel IV. položil základy — a teď se podíváme, co se z nich stalo za dalších sedmdesát let: proč si Praha v 15. století málem rozervala sama sebe a jak husitská revoluce otřásla celou Evropou.",
+  "transition_en": "Charles IV laid the foundations — and now let's see what became of them over the next seventy years: why Prague in the fifteenth century nearly tore itself apart, and how the Hussite revolution shook all of Europe.",
+  "fact_flags": [
+    {
+      "claim_cz": "Karel IV. mluvil čtyřmi jazyky.",
+      "correction_cz": "Ve skutečnosti pěti: česky, francouzsky, německy, latinsky a italsky — a češtinu si musel po návratu z Francie znovu naučit, protože ji v Paříži zapomněl.",
+      "correction_en": "In fact five: Czech, French, German, Latin and Italian — and he had to relearn Czech after returning from France, having forgotten it in Paris."
+    },
+    {
+      "claim_cz": "Palindrom 1-3-5-7-9-7-5-3-1 je doložený historický fakt z doby stavby Karlova mostu.",
+      "correction_cz": "Je to legenda. Ve 14. století se užíval juliánský kalendář s římskými číslicemi a minuty se vůbec neměřily. Palindrom v arabských číslicích by Karlovi neřekl nic — jako průvodcovská historka je ale nepřekonatelný.",
+      "correction_en": "It's a legend. In the fourteenth century they used the Julian calendar with Roman numerals, and minutes weren't measured at all. The Arabic-numeral palindrome would have meant nothing to Charles — but as a tour-guide story it's unbeatable."
+    },
+    {
+      "claim_cz": "Černá smrt v roce 1348 zdecimovala Prahu.",
+      "correction_cz": "Spíš naopak. České země byly velké morové vlny roku 1348 z velké části ušetřeny. Zatímco mor kosil zbytek Evropy, Praha rostla a stavěla — a právě ten kontrast dělá Karlovy stavební činy ještě působivějšími.",
+      "correction_en": "Quite the opposite. The Bohemian lands were largely spared the great plague wave of 1348. While the Black Death ravaged the rest of Europe, Prague was growing and building — and that very contrast makes Charles's achievements all the more striking."
+    },
+    {
+      "claim_cz": "Do malty Karlova mostu se přidávala vejce.",
+      "correction_cz": "Krásná legenda bez vědeckého podkladu — moderní analýzy složení malty vejce nepotvrdily. Průvodci ji přesto rádi vyprávějí.",
+      "correction_en": "A lovely legend with no scientific basis — modern analyses of the mortar have found no evidence of eggs. Tour guides love the story anyway."
+    },
+    {
+      "claim_cz": "Praha byla za Karla IV. třetím největším městem Evropy.",
+      "correction_cz": "Tvrzení se v průvodcovské tradici opakuje a je pravděpodobné, ale přesná demografická data ze 14. století jsou nespolehlivá. Praha skutečně výrazně rostla a patřila k předním evropským městům — přesné pořadí však ověřit nelze.",
+      "correction_en": "The claim recurs in the guide tradition and is plausible, but precise fourteenth-century demographic data are unreliable. Prague genuinely grew a great deal and ranked among Europe's leading cities — yet the exact ranking can't be verified."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Karel IV. — Wikipedie (česky)",
+      "url": "https://cs.wikipedia.org/wiki/Karel_IV.",
+      "date": "2026-06"
+    },
+    {
+      "title": "Charles IV, Holy Roman Emperor — Wikipedia (English)",
+      "url": "https://en.wikipedia.org/wiki/Charles_IV,_Holy_Roman_Emperor",
+      "date": "2026-06"
+    },
+    {
+      "title": "King Charles IV and the Luxembourg Dynasty — Private Prague Guide",
+      "url": "https://www.private-prague-guide.com/article/king-charles-iv-and-the-luxembourg-dynasty/",
+      "date": "2026-06"
+    },
+    {
+      "title": "Prague Castle and Charles Bridge — Free Walking Tour Prague",
+      "url": "https://freewalkingtourprague.eu/tours/free/prague-castle-and-charles-bridge",
+      "date": "2026-06"
+    },
+    {
+      "title": "On This Day in 1348: New Town (Nové Město) Founded by Charles IV — Prague Morning",
+      "url": "https://praguemorning.cz/on-this-day-in-1348-new-town-nove-mesto-founded-by-the-emperor-charles-iv/",
+      "date": "2026-06"
+    },
+    {
+      "title": "The Bohemian Crown Jewels — Prague Castle (hrad.cz)",
+      "url": "https://www.hrad.cz/en/prague-castle-for-visitors/other/the-bohemian-crown-jewels-10273",
+      "date": "2026-06"
+    },
+    {
+      "title": "Karel IV. a čeština — Jiří Hasil (Univerzita Karlova, dspace.cuni.cz)",
+      "url": "https://dspace.cuni.cz/bitstream/handle/20.500.11956/97326/1520428_jiri_hasil_23-33.pdf",
+      "date": "2026-06"
+    },
+    {
+      "title": "NEJVĚTŠÍ ČECH zvolen prostřednictvím České televize — ČT (PDF)",
+      "url": "https://www.ceskatelevize.cz/vse-o-ct/api/media/documents/Nejvetsi_Cech_zvolen_prostrednictvim_Ceske_televize.pdf",
+      "date": "2005-11"
+    }
+  ]
+}

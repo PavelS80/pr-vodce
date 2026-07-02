@@ -1,0 +1,119 @@
+{
+  "id": "cat-02",
+  "category_en": "Legends & Magic",
+  "category_note": "Prague built its reputation on mystery. Here are the legends, literary inventions, and genuine magical traditions that created it — told for exactly what they are.",
+  "stories": [
+    {
+      "title": "Clay, Fire, and a Single Word",
+      "tale": "Walk up to the Old-New Synagogue and look at those weathered, ancient walls. The most famous monster in Central Europe was not born — he was kneaded. The story goes: Rabbi Judah Loew ben Bezalel, the Maharal of Prague, went to the Vltava's bank on a moonless night and shaped a man from river clay. His disciples circled the figure seven times, chanting Kabbalistic names of God. Then the Rabbi pressed a slip of parchment — the shem — onto the figure's forehead. On it was written emet: truth. The Golem opened his eyes. He served as guardian of the Jewish ghetto: a mute, eight-foot caretaker who could not be reasoned with and could not disobey. When the Sabbath came, the Rabbi peeled the shem away and the Golem rested, inert as brick. This legend draws on genuine Kabbalistic tradition but took its modern shape largely through nineteenth-century Romantic literature. Rabbi Loew was absolutely real and absolutely brilliant. The Golem? That depends entirely on who you ask.",
+      "status": "legend",
+      "where": "Old-New Synagogue, Josefov",
+      "tell_tip": "Tell this standing outside the Old-New Synagogue before entering — it sets up the entire Josefov walk."
+    },
+    {
+      "title": "The Attic That No One Opens",
+      "tale": "When Rabbi Loew finally chose to decommission his creation permanently, he did not bury it or dissolve it in the river. According to the tradition that grew up around this story, he simply erased the first letter from emet — truth — leaving met: death. The Golem crumpled. And the Rabbi carried the remains up into the attic of the Old-New Synagogue. They are said to be there still. The attic is real — it exists above the vaulted prayer hall. What is inside it is not a matter of public knowledge, because the attic is essentially sealed. The Chief Rabbis of Prague have historically declined to allow it to be examined. Whether that is reverence, prudence, or very good storytelling instinct is open to debate. What is not open to debate: they are not letting you up there. And that is, if you think about it, exactly the right decision. Some mysteries are more powerful sealed than solved.",
+      "status": "traditional tale",
+      "where": "Old-New Synagogue attic, Josefov",
+      "tell_tip": "Best told immediately after the Golem creation story — the sealed attic is the perfect cliffhanger."
+    },
+    {
+      "title": "The Sabbath the Golem Went Mad",
+      "tale": "The Golem was perfectly obedient — unless you forgot to deactivate him before sundown on Friday. Rabbi Loew, the legend says, was so absorbed in Sabbath prayers one evening that he neglected to remove the shem from his creation's forehead. Without the weekly rest, the Golem broke. He began tearing through Josefov — overturning market stalls, pulling down fences, rampaging with the indiscriminate fury of a machine that has lost its purpose. The Rabbi rushed from the synagogue, still in his prayer shawl, and tore the shem away before lives were lost. The story has a satisfying moral: even the greatest rabbi, even the most carefully constructed guardian, is only as reliable as the human being maintaining him. It is one of the earliest and most elegant warnings in literature about what happens when the creator becomes complacent about his creation. Sixteenth-century robotics ethics, if you like — told as legend, but still remarkably current.",
+      "status": "legend",
+      "where": "Old-New Synagogue and Josefov quarter",
+      "tell_tip": "The robotics-ethics punchline lands especially well with tech audiences — do not skip it."
+    },
+    {
+      "title": "The Hole in the Ceiling",
+      "tale": "Stand in the middle of Charles Square and look towards the far corner. That imposing baroque building is called the Faust House, and the story attached to it is exactly what you would expect from a building with that name. A poor student, so the legend goes, rented a room here and discovered, hidden in the walls, enough gold to pay off every debt he owed. He spent it. Then more gold appeared, and he spent that too. Then a figure arrived to collect what was owed. The student was dragged through the ceiling — literally through the plaster and timber — screaming all the way to hell. The hole, they say, kept reappearing no matter how often the landlords patched it. The house has genuine history: alchemists and occultists really did live here at various points, including the English swindler Edward Kelley. But the ceiling-hole is legend — vivid, durable legend that the neighbourhood has been dining out on for three centuries.",
+      "status": "legend",
+      "where": "Faust House (Faustův dům), Karlovo náměstí",
+      "tell_tip": "Point to the top floor as you tell it — groups always look up, which is exactly what you want."
+    },
+    {
+      "title": "Rudolf's Beautiful Obsession",
+      "tale": "Holy Roman Emperor Rudolf II moved his court from Vienna to Prague in 1583, and for the next three decades this city became the strangest capital in Europe. Rudolf collected everything: paintings, clocks, exotic animals, mechanical automata, rhinoceros horns, astrolabes — and, most obsessively, people who claimed they could turn lead into gold. He was genuinely fascinated by alchemy, Hermeticism, and the idea that the world contained hidden correspondences that a brilliant enough mind could unlock. His court drew real scientists — Tycho Brahe came here, and Kepler, who did serious astronomy in Rudolf's service. But the same court drew a parade of charlatans who stayed only until the Emperor's patience — and his treasury — ran thin. He never got the philosopher's stone. He did get a reputation as Europe's great eccentric monarch and an astonishing art collection that is still partly visible in Vienna. The gold, in the end, went with whoever took the art.",
+      "status": "documented",
+      "where": "Prague Castle, Hradčany",
+      "tell_tip": "Tell this en route to Prague Castle — it frames everything you will see there as one Emperor's fever dream."
+    },
+    {
+      "title": "The Street Where Alchemists Never Lived",
+      "tale": "Ask almost any tourist why Golden Lane at Prague Castle is called that, and you will get the same answer: alchemists. Rudolf II's alchemists, hunched over their furnaces in those tiny houses, turning lead to gold. It is a wonderful story. It is almost certainly not true. The lane's name comes from goldsmiths — zlatníci in Czech — craftsmen who worked there in the sixteenth and seventeenth centuries making jewellery and metalwork, not philosopher's stone. The connection to alchemy was a later Romantic invention that proved irresistible because Rudolf really was obsessed with alchemy, and because those little houses are exactly the right size to imagine a wizard living in one. Franz Kafka lived at number twenty-two in the winter of 1916 to 1917, which is documented and delightful and has nothing to do with alchemy either. The truth is that Golden Lane is a perfectly real, perfectly charming street that has been improved by a legend it does not actually own. Prague is full of those.",
+      "status": "documented",
+      "where": "Golden Lane (Zlatá ulička), Prague Castle",
+      "tell_tip": "Let guests admire the tiny houses first, then deliver the myth-busting — the pause makes the reveal sharper."
+    },
+    {
+      "title": "Edward Kelley and His Missing Ears",
+      "tale": "Edward Kelley arrived in Prague in 1589 with a remarkable gift: he claimed he could communicate with angels using a crystal ball, while his partner — the famous English occultist John Dee — transcribed the messages. Rudolf II, who collected such people the way other monarchs collected paintings, was enchanted. What Rudolf did not immediately know was that Kelley had already had his ears cut off in England. Ear-cropping was the standard English punishment for fraud or forgery. He kept this hidden under a distinctive black cap, and his rapid, persuasive manner made awkward questions easy to avoid. He and Dee performed their angel-consultations for noble courts across Central Europe. Rudolf eventually imprisoned Kelley when the promised gold failed to appear and the performances began to feel thin. Kelley died in custody around 1597, apparently during an escape attempt from a tower. The ear-cropping is documented history. The angels were, in all likelihood, a revenue model.",
+      "status": "documented",
+      "where": "Prague Castle, Hradčany",
+      "tell_tip": "End on the revenue-model line — it always gets a laugh, and a laugh after a dark story is exactly right."
+    },
+    {
+      "title": "The Clockmaker's Last Sight",
+      "tale": "The Prague Astronomical Clock was completed in 1410 — a mechanism that shows not just the time but the position of the sun and moon, the phases of the month, and a parade of apostles on the hour. A masterpiece. And according to a story that Alois Jirásek published in his Old Bohemian Legends in 1894, it nearly destroyed its maker. The city councillors, the legend says, were so proud of their clock that they grew nervous. What if the clockmaker — Master Hanuš — went to another city and built an even better one? They solved the problem with brutal simplicity: they had him blinded. The master, in revenge, is said to have reached into the clock's mechanism and stopped it, so that no one else could start it without him. There is no historical evidence that Master Hanuš was blinded. Jirásek created this story as a literary legend in the nineteenth century. The clock is real and magnificent. The blinding is an invention — told here as exactly that.",
+      "status": "legend",
+      "where": "Astronomical Clock (Orloj), Old Town Square",
+      "tell_tip": "Tell it on the hour so the apostles parade while you speak — the timing is everything."
+    },
+    {
+      "title": "The Iron Man of Platnéřská",
+      "tale": "There is a street in the Old Town called Platnéřská — Armourers' Street — that runs quietly between the river and Old Town Square. Once a century or so, according to the legend attached to it, a figure in full medieval armour walks its length at midnight. He is not threatening, exactly. He is mournful. The story concerns betrayal: a knight who swore an oath and then broke it — whether to a woman or to his lord depends on which version you hear — and who is condemned to walk that street until someone releases him. The release requires a particular act of bravery or kindness that is never quite specified, which is itself a very old storytelling device: the curse stays interesting because the solution always remains just out of reach. He is said to appear before great catastrophes — wars, occupations, plague. Prague has suffered enough of those that the legend finds fresh traction every generation. The last reported sighting was, characteristically, just before the worst thing that subsequently happened.",
+      "status": "traditional tale",
+      "where": "Platnéřská Street, Old Town",
+      "tell_tip": "Best on evening or night tours — walk the actual street and keep your voice low."
+    },
+    {
+      "title": "The Army Beneath Blaník",
+      "tale": "About forty kilometres southeast of Prague, a low mountain rises from the Bohemian plain. Not particularly dramatic — just over six hundred metres. But what is supposed to be inside it makes it one of the most important places in Czech mythology. Beneath Blaník sleep the knights of Saint Wenceslas, the patron saint of Bohemia. They are armoured, horsed, and waiting. The mountain will open when Bohemia faces its gravest peril, when the enemy is at the gates and all hope appears lost. Then the knights will ride out, Wenceslas at their head, and the enemy will be defeated. This story has been invoked seriously during almost every catastrophe the Czechs have endured — the Thirty Years' War, 1938, 1968. It is a survival myth: the idea that the nation holds a reserve it has not yet used. Traditional tale, ancient roots, remarkably durable. Ask any Czech schoolchild about Blaník and you will have the full story in ninety seconds.",
+      "status": "traditional tale",
+      "where": "Blaník mountain, Central Bohemia (story told throughout Prague)",
+      "tell_tip": "Works best outdoors with open sky visible — the sense of a waiting army needs space."
+    },
+    {
+      "title": "The Sword Inside the Bridge",
+      "tale": "On the Lesser Town side of Charles Bridge, partly embedded in one of the pillars, stands a statue of a knight with a lion at his feet. He is Bruncvík — a legendary Czech hero who sailed to the ends of the earth, befriended a lion, fought dragons, and performed the feats that legendary heroes exist to perform. His reward was a magical sword: a blade that could strike off twenty heads with a single blow. That sword, the legend says, is hidden inside Charles Bridge itself — embedded in the stonework, waiting. When Bohemia's darkest hour arrives — the same moment the knights beneath Blaník finally wake — the sword will come loose from the stone and float down the Vltava to where it is needed. Two reserves, one moment of national rescue: the army from the mountain, the weapon from the river. The Czechs did not build their mythology lightly. As you can see, they did not build their bridge lightly either.",
+      "status": "traditional tale",
+      "where": "Charles Bridge, Lesser Town (Malá Strana) pillar",
+      "tell_tip": "Stop at the Bruncvík statue and touch the stonework — the physical connection makes the sword legend land."
+    },
+    {
+      "title": "The Monk Who Ran Out of Time",
+      "tale": "In a Benedictine monastery in Bohemia, sometime in the early thirteenth century, a monk was sentenced to be walled alive for breaking his vows — severe even by medieval standards. He proposed a deal: he would copy the entire Bible, with all the world's knowledge, in a single night. The monks agreed. By midnight he realised he could not do it. So he prayed — not to God, but to Lucifer. In exchange for his soul, the Devil completed the manuscript. The monk then added a full-page portrait of his patron. This is why the largest medieval manuscript in existence — nearly a metre tall — contains a magnificent painting of the Devil and carries its popular name: the Devil's Bible. Rudolf II brought it to Prague as part of his legendary collection. Swedish soldiers took it as war loot in 1648 and it has lived in Stockholm ever since. The devil portrait is genuine and extraordinary. The bargain is legend — but the book is very, very real.",
+      "status": "legend",
+      "where": "Prague Castle (Rudolf II's collection; the Codex Gigas is now in Stockholm)",
+      "tell_tip": "Show a photo of the devil portrait on your phone — that single image does more than any words can."
+    },
+    {
+      "title": "The Book That Cast the Spell",
+      "tale": "In 1973, an Italian literary critic named Angelo Maria Ripellino published a book called Magic Prague. It was ostensibly literary criticism about Czech writers — Kafka, Meyrink, Hašek, Nezval — but what it actually did was conjure an entire mythology of the city as a place where the irrational had always been at home. Where golem-makers and alchemists were not oddities but locals. Where an Emperor who collected rhinoceros horns and horoscopes was the city's true patron saint. The book was banned in Czechoslovakia because Ripellino was too enthusiastic about dissidents. It circulated in samizdat. After 1989 it became legal and deeply beloved. Here is an interesting truth about magical cities: they are partly made by people who write about them as magical. Prague had genuine mystical traditions — Kabbalistic scholarship, Rudolf's court, Kafka's paranoid genius. But the specific flavour of Magical Prague — that phrase, that atmosphere — is significantly Ripellino's invention. A book made this city feel the way it does. Which is itself a kind of magic.",
+      "status": "documented",
+      "where": "Prague (the whole city is the subject)",
+      "tell_tip": "Ideal for closing a Magical Prague walk — it makes guests understand what they have actually been experiencing."
+    },
+    {
+      "title": "The Golden Nose That Wasn't",
+      "tale": "In the Church of Our Lady before Týn, buried beneath the north aisle, lies Tycho Brahe — the Danish astronomer who came to Prague at Rudolf II's invitation and produced the most precise naked-eye astronomical measurements ever made. He is not difficult to find: there is a plaque. Now, Tycho Brahe famously wore a prosthetic nose. He lost the real one in a duel as a young student in Denmark — a duel over a mathematical formula, which tells you something about the sixteenth century. The replacement is universally described in tourist literature and popular history as made of gold. It was not. When the tomb was examined in 1901 and again in 2010, chemical analysis found copper and zinc — brass, essentially, possibly silver-plated. Gold would have been far too heavy to wear. The golden-nose legend is simply more romantic than a brass-nose legend, which is why it persists. Brahe himself, who spent his career making precise measurements and correcting other people's errors, would probably have found this deeply frustrating.",
+      "status": "documented",
+      "where": "Church of Our Lady before Týn (Týnský chrám), Old Town Square",
+      "tell_tip": "The symmetry — a man famous for precision remembered with a factual error — is the whole point; say it plainly."
+    },
+    {
+      "title": "Twelve Layers Deep",
+      "tale": "The Old Jewish Cemetery in Josefov is one of the most quietly disturbing places in Prague, and the reason is simple arithmetic. The cemetery operated from roughly 1439 to 1787 — three and a half centuries. It covers approximately one acre. In those three hundred and fifty years, somewhere in the region of a hundred thousand people were buried here. The ghetto's walls could not expand to accommodate the dead. So the Jews of Prague buried successive generations in layers — twelve deep in places — each new stratum of soil and stone laid over the last. The gravestones visible above ground are only a fraction of what lies below, heaved up and tilted by centuries of burials pressing from underneath. Rabbi Loew is buried towards the back. His grave is one of the most visited in the cemetery. Visitors still leave small stones — the Jewish tradition — and also written petitions. People still ask him for things. Whether they receive them is, as with everything in Josefov, a matter of what you are willing to believe.",
+      "status": "documented",
+      "where": "Old Jewish Cemetery (Starý židovský hřbitov), Josefov",
+      "tell_tip": "Tell this at the entrance before guests have seen the gravestones — the numbers hit harder before the stones are visible."
+    },
+    {
+      "title": "The White Lady's Footsteps",
+      "tale": "Prague Castle is large enough and old enough to have generated several resident ghosts, but the most aristocratic is the White Lady — a figure in pale robes reported in its corridors since at least the seventeenth century. She is usually identified as Perchta of Rožmberk, a fifteenth-century noblewoman married against her will to a cold and parsimonious lord. She lived miserably, died without receiving the gifts her family had promised as a bride, and sent a final letter from her deathbed asking her brother not to forget her. After death, she apparently decided not to be forgotten. She appears before significant events — in black as a warning, in white with gloves as a good omen. The gloves matter enormously. Gloves mean welcome; no gloves means trouble ahead. Whether you find any of this convincing, consider this: every guard who has ever worked the night shift at Prague Castle knows exactly who the White Lady is. Every single one of them knows.",
+      "status": "traditional tale",
+      "where": "Prague Castle, Hradčany",
+      "tell_tip": "Save this for last on a castle visit — the gloves detail is a perfect close that guests will be repeating for weeks."
+    }
+  ]
+}

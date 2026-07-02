@@ -1,0 +1,133 @@
+{
+  "id": "cat-03",
+  "category_en": "Ghosts & the Macabre",
+  "category_note": "Prague's darker repertoire — water sprites, executed nobles, phantom processions, and things that knock at night. All stories are legend or traditional folklore and are presented as such.",
+  "stories": [
+    {
+      "title": "The Vodník of Devil's Stream",
+      "tale": "The Čertovka — the Devil's Stream — is not named after the devil by accident. According to legend, a vodník, a water sprite, has made his home here for centuries. He looks almost human: a green coat dripping with river water, frog-like fingers, eyes the color of algae. Locals say he sits on the weir at midnight, combing his wet hair. His great obsession, the old tales tell us, is collecting the souls of the drowned — keeping each one sealed inside a small green teapot, lined up neatly on a shelf beneath the current. If you walk Kampa at dusk and see a gentleman in a green coat staring into the water, do not disturb him. And whatever you do — do not lean too far over the railing. The current here is deceptively strong, and the vodník, so the legend goes, is always looking for a new teapot to fill.",
+      "status": "traditional tale",
+      "where": "Čertovka (Devil's Stream), Kampa Island, Malá Strana",
+      "tell_tip": "Pause here at the railing and let the current speak for you before the punchline."
+    },
+    {
+      "title": "The Turk of Ungelt",
+      "tale": "Týn Courtyard — Ungelt — was medieval Prague's international trading hub. Merchants from every corner of the known world passed through these gates. One, according to legend, was a Turkish merchant who fell devastatingly in love with a local girl. She did not love him back. When she finally refused him for the last time, he did not accept it gracefully. He killed her and fled — or tried to. The legend says he died before leaving Bohemia, and his guilt, or his obsession, kept him here. His ghost still wanders Ungelt at night. People report the faint smell of eastern spices — clove, cardamom — and then a chill, and then silence. The girl, some say, walks here too, still looking for a way out of a courtyard she never chose to haunt.",
+      "status": "legend",
+      "where": "Týn Courtyard (Ungelt), Old Town",
+      "tell_tip": "Inhale the air of the courtyard — if any food vendor is nearby, the spice detail lands perfectly."
+    },
+    {
+      "title": "The Walled-Up Nun",
+      "tale": "Somewhere beneath the old convents of this city — and Prague has more than you might think — there is said to be a room that was never a room. A young nun who broke her vows was brought before the abbess and condemned to an unusual punishment. They bricked her into a wall. Not quickly. Slowly, stone by stone, leaving the last brick until she had made her final peace with God. The knocking that later residents reported? Dismissed as pipes, as settling masonry. But the knocking always came at night, and always in threes. The legend is old, the location conveniently vague — which is, of course, exactly what makes it work. A specific address would let you dismiss it. Vague? Vague means it could be any cloister. It could be the one you're standing next to right now.",
+      "status": "legend",
+      "where": "Various old convents, Prague (location unspecified in source legends)",
+      "tell_tip": "Knock three times on a nearby stone wall and watch the group go very quiet."
+    },
+    {
+      "title": "The Headless Templar",
+      "tale": "The Knights Templar had a presence in Prague — their round chapel once stood in the lesser quarter. They were dissolved in 1312, their order destroyed by a French king who feared their wealth and their secrets. But dissolved, according to legend, does not mean gone. On certain nights — moonless ones, preferably — a rider appears near the old Templar ground. No head. The horse moves in silence. He is said to be a Templar executed in the great purge, still riding his circuit, still guarding a treasure that no longer exists — or that may, some whisper, be buried beneath the streets of Malá Strana still. He does not stop. He does not turn. He simply passes, and then the street is empty again, and you are left wondering what exactly just moved through the dark.",
+      "status": "legend",
+      "where": "Malá Strana, near the site of the former Templar chapel",
+      "tell_tip": "Deliver 'He does not stop. He does not turn.' as three separate beats — the silence between them does the work."
+    },
+    {
+      "title": "The Nine Who Knock",
+      "tale": "On the 21st of June 1621, twenty-seven Protestant leaders were executed in this square. Their skulls were displayed on the Old Town Hall tower for ten years — a warning, a humiliation. But humiliation, as any ghost story will tell you, tends to breed unquiet spirits. The legend says that nine of the executed did not rest. On the anniversary of the execution, they walk from the place of their death to the Town Hall door, and knock three times, and wait. The door does not open. It never opens. And so they walk back, and disappear, and the square — for just a moment — feels heavier than it did before you knew what happened here. Tomorrow morning this square will be full of tourists eating trdelník. But tonight, on this cobblestone, twenty-seven men died. Let that land before we move on.",
+      "status": "legend",
+      "where": "Old Town Square, at the Town Hall facade",
+      "tell_tip": "The real history here is so powerful the ghost story almost undersells it — give both equal weight."
+    },
+    {
+      "title": "The Fiery Dog",
+      "tale": "This one appears in multiple written records from the 17th and 18th centuries, which makes it either very well-traveled folklore or something that disturbed enough people to put ink to paper. The fiery dog of Old Town. It appears as a large black dog, but lit from within — not glowing exactly, more like embers seen through fur, red-orange flickers beneath the surface. It runs in silence. It crosses your path and is gone. Old Praguers said it was the spirit of a moneylender who cheated widows and orphans and could not rest. Others said it was a warning: if it crossed your path, someone in your family would die before the week was out. Modern dog walkers on Platnéřská report nothing unusual. Probably. Though you do notice that none of them linger.",
+      "status": "legend",
+      "where": "Platnéřská Street and surrounding Old Town lanes",
+      "tell_tip": "The dry 'Probably' at the end earns a nervous laugh — time it after a genuine pause."
+    },
+    {
+      "title": "The Phantom Funeral",
+      "tale": "In the narrow streets off Old Town Square there is a legend of a procession that appears without sound. No drums. No weeping. Just a column of figures in dark clothes, moving slowly, carrying a coffin on their shoulders. The faces are turned away, or hidden. You cannot see who they are burying. You step aside — because it feels rude not to, because a funeral is a funeral — and then you realize you cannot hear their footsteps. Nothing. Not on cobblestones. And when you turn to look again, the street is empty. The legend says this procession appears before a death in the neighborhood. It has been reported in almost every century for which we have written sources. Which may tell us something about Prague, or may simply tell us something about human nature and our need to believe that death announces itself in advance.",
+      "status": "traditional tale",
+      "where": "Celetná, Štupartská, and the alleys behind Týn Church",
+      "tell_tip": "Walk slowly as you tell this — a guide who unconsciously slows down creates the procession effect in the group."
+    },
+    {
+      "title": "The Iron Man of Platnéřská",
+      "tale": "Platnéřská Street — the street of the armorers — once rang with the sound of hammers on steel. Now it is quiet. But according to a legend circulating since at least the 16th century, a man appears here every hundred years. He is dressed in iron — or appears to be — and he stops passersby to ask a single question: 'Has the time come yet?' The legend says he is a knight who made a terrible bargain — for wealth, for power, for a woman; the story varies — and that he will only be freed when the answer is yes. He appeared around 1600, around 1700, around 1800. If the pattern holds, he is overdue. If you are on Platnéřská after dark and a man in unusual clothing asks you something — answer carefully. He has been waiting a very long time, and the waiting has not improved his temper.",
+      "status": "legend",
+      "where": "Platnéřská Street, Old Town",
+      "tell_tip": "Let a group member calculate 'the next appearance year' — it creates delightful unease when they do the math."
+    },
+    {
+      "title": "The Hand Beneath Charles Bridge",
+      "tale": "In the older ghost lore of this city, the Vltava is not just a river. It is a border. And things that fall into it do not always stay where they land. According to the old accounts, there is a figure associated with the waters near Charles Bridge — not the martyred saint on the bridge itself, that is a different story — but something below, just beneath the surface. A hand, mostly. Reaching upward. Sometimes a face. The legend says it is a man who was thrown from the bridge — murdered, and drowned — who cannot rest until his killer is named. Since his killer has presumably been dead for several centuries, this seems unlikely to be resolved soon. But the hand, various accounts say, still appears on still nights, when the water is dark and the bridge lights do not quite reach the surface. Do not look down on your way across. Or do. It rather depends on the sort of person you are.",
+      "status": "traditional tale",
+      "where": "Charles Bridge, over the Vltava",
+      "tell_tip": "Stop on the bridge mid-span and look down at the water — the group will follow your gaze instinctively."
+    },
+    {
+      "title": "The Golem's Last Night",
+      "tale": "Rabbi Loew — his tomb is in the Old Jewish Cemetery — created, according to the most famous legend in all of Prague, a being made of river clay. The Golem walked, it worked, it protected the ghetto. And then one Friday evening, Rabbi Loew forgot to remove the shem — the sacred word — from beneath the Golem's tongue before the Sabbath. The Golem ran amok through the streets. Rabbi Loew caught it just in time, removed the paper, and the clay collapsed into a heap. The Golem was carried to the attic of the Old-New Synagogue, where — according to the legend — it remains to this day. Waiting. They say it cannot be destroyed, only deactivated. They say on certain nights you can hear something shifting in the attic above the sanctuary. The synagogue, I should mention, does not offer attic tours. The caretaker was asked. The answer was brief.",
+      "status": "traditional tale",
+      "where": "Old-New Synagogue, Josefov (Jewish Quarter)",
+      "tell_tip": "The caretaker anecdote, even invented, always gets a laugh — it grounds the fantastical in the mundane."
+    },
+    {
+      "title": "The Wailing Woman of Malostranské Square",
+      "tale": "There is a particular type of ghost in Central European folklore — the white woman, the grieving feminine presence — and Malá Strana has its own. In Malostranské Square, a woman in white has been reported for at least two centuries, always near the baroque buildings on the square's northern side. She is always weeping. She never speaks. She walks toward something — a door, a gateway — and then she is gone. The legend attaches her to a young woman who received terrible news on the night before her wedding and could not survive it. The details change with each teller — who died, what she was told, what year — but the image holds constant. A woman in white. Moving with purpose. Weeping without sound. Prague has many of these. They each have different names and slightly different stories. But in the dark, they all look the same.",
+      "status": "legend",
+      "where": "Malostranské Square, Malá Strana",
+      "tell_tip": "The final line — 'in the dark, they all look the same' — is the chill. Drop your voice and do not explain it."
+    },
+    {
+      "title": "The Black Coach of Nerudova",
+      "tale": "Nerudova Street — steep, cobbled, lined with baroque palaces — is beautiful in daylight. At night it has a reputation. The legend concerns a coach: black lacquered, drawn by black horses, that appears at the top of the street and descends at speed. No coachman visible. The horses' eyes, every version of the tale agrees, are red. The coach passes in silence — that detail again, the missing sound that keeps appearing in Prague ghost stories — and at the bottom of the street it turns toward the river and disappears. The legend attaches it to a nobleman who made a pact and whose vehicle was damned along with him. Several versions add a passenger visible through the window. The passenger is always looking out. The passenger is always smiling.",
+      "status": "legend",
+      "where": "Nerudova Street, Malá Strana",
+      "tell_tip": "Tell this one at the top of the street before descending — the steep cobbled darkness ahead makes every word land harder."
+    },
+    {
+      "title": "Tycho Brahe Unfinished",
+      "tale": "Tycho Brahe — the Danish astronomer, the man with the silver nose, one of the most brilliant and eccentric minds of the 16th century — died in Prague in 1601 and is buried in Týn Church. He had come to the court of Emperor Rudolf II, the great collector of wonders, and he ran out of time here. The legend — and it is firmly a legend — says he walks the church at night, still calculating. The silver gleam of his prosthetic nose is sometimes reported near his tomb. What is he trying to finish? The astronomical tables he never completed? The proof of a planetary model that was neither Ptolemy's nor Copernicus's, but something in between that no one would accept? Or perhaps he simply cannot believe he ran out of time in a city this strange, this full of wonders, before he was done with it. That, at least, is understandable.",
+      "status": "legend",
+      "where": "Týn Church (Kostel Panny Marie před Týnem), Old Town Square",
+      "tell_tip": "A sympathetic ghost is more unsettling than a menacing one — play his sadness, not his strangeness."
+    },
+    {
+      "title": "What Lives Inside the Clock",
+      "tale": "The Astronomical Clock — the Orloj — is the most watched timepiece in the world, perhaps. Every hour tourists gather with cameras raised. But there is a story about what is inside the clock, not displayed on it. According to legend, its builder — a man called Hanuš — was blinded by the city council after completion so he could not build another clock for any rival. In his rage, he climbed to the mechanism and stopped the clock. Some versions say he threw himself into the gears. This is almost certainly not historically true. The real history is less dramatic. But the legend persists, and workers maintaining the mechanism have reported — unofficially, in the kind of account that never makes documents — the sense of something watching from the dark interior. Something patient. Something that has been keeping count of every hour, every hour, every hour, since 1410.",
+      "status": "legend",
+      "where": "Astronomical Clock (Orloj), Old Town Hall",
+      "tell_tip": "Say 'every hour' three times deliberately — your rhythm mimics the clock mechanism and people feel it."
+    },
+    {
+      "title": "The Debtor's Knock",
+      "tale": "There is a house in Malá Strana — the address carefully unspecified in the oldest versions, which is how you know it is a good legend — where a man died in catastrophic debt. The kind that outlived him and fell on his family. He came back, the story says. Not as a pale shadow, not as a weeping figure — but as knocking. Once, twice, three times at the door. The family inside would not answer, because they knew. The knocking moved around the house, trying every window, every entrance. Then stopped. And next morning, a creditor arrived. The legend became neighborhood shorthand: three knocks at night with no one there means someone is coming to collect something. The ghost is gone now. The debt was eventually paid. But the habit of listening for knocking after dark — that stayed. In the whole of Malá Strana. For a very long time.",
+      "status": "legend",
+      "where": "Malá Strana (house unspecified)",
+      "tell_tip": "Knock three times on a nearby door or wall before this story — the sound creates the story before you say a word."
+    },
+    {
+      "title": "The Skull Beneath the Clockface",
+      "tale": "They say that when the clock face of the Orloj was last opened for major maintenance, a craftsman reached into the mechanism to clear debris and found something that should not have been there: a small bone. Not from an animal. Human, the story goes. A finger bone. No one could say how old, no one could say how it got there. The incident is in no official record. The craftsman is identified by no name. This is exactly the shape of an urban legend — the unnamed witness, the unverifiable detail, the thing that officially did not happen. And yet it travels, reliably, from guide to tourist to dinner table to bed. Whether it is true is a question I am genuinely unable to answer. Whether it feels true — standing under this tower, in this city, looking up at a clock that has been counting time since the early 1400s — that is a different question entirely.",
+      "status": "uncertain",
+      "where": "Astronomical Clock (Orloj), Old Town Hall",
+      "tell_tip": "The explicit acknowledgement that you cannot verify it reads as honesty — and paradoxically makes it more credible."
+    },
+    {
+      "title": "The Headless Queen of Vyšehrad",
+      "tale": "Vyšehrad — the high castle above the river bend, older than Prague Castle in the legends — is where Czech history begins, and where it tends to get strange. According to a very old traditional tale, a queen walks the ramparts on midsummer nights. She has no head. This is attributed to various historical queens depending on who is telling the story, most often to a figure so old she predates written records, which gives the legend a pleasing vagueness. She walks the full circuit of the walls, the old tales say, from tower to tower, without pause, without deviation. She is looking for her kingdom. The castle was taken from her and she cannot stop searching. Vyšehrad is quiet now. The views of the river are remarkable. But come at midsummer dusk and stand at the old rampart wall, and listen. The silence up here, this high above the city, is a different kind of silence than you get down in the streets.",
+      "status": "traditional tale",
+      "where": "Vyšehrad ramparts, Vyšehrad",
+      "tell_tip": "Let the silence of Vyšehrad do the work — this is a story that benefits from a long pause at the end."
+    },
+    {
+      "title": "The Bones Remember",
+      "tale": "An hour east of Prague, in Kutná Hora, there is a chapel whose chandeliers are made of human bones. The Sedlec Ossuary holds the remains of some forty thousand people, arranged by a half-blind monk in 1870. His name was František Rint. He signed his own work in the corner — in bones — which is either the most committed artist's signature in history, or something that should give you pause. The echo story that Prague guides have borrowed from the Sedlec tradition says that bone retains memory. That on All Souls' Night, in the places where the dead once gathered, something settles, shifts, orients. That bones, very slowly, in the dark, move toward the places they came from. This is, of course, a legend. Biology does not work that way. But the monk who arranged forty thousand dead into decorative patterns? He was real. He signed his name. He thought it was beautiful. That part requires no legend at all.",
+      "status": "traditional tale",
+      "where": "Referenced from Sedlec Ossuary, Kutná Hora (day-trip from Prague)",
+      "tell_tip": "End on the monk — the true detail is always more unsettling than the supernatural one."
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "cat-08",
+  "category_en": "Rituals, Jokes & Recent Legends",
+  "category_note": "The crowd-pleasers guides live by — rituals invented last Tuesday, jokes that land in any language, and the living legends of a city that turned revolution into poetry.",
+  "stories": [
+    {
+      "title": "Touch the Brass, Come Back to Prague",
+      "tale": "Halfway across Charles Bridge, you'll notice a brass plaque on the left-hand railing that's been polished to bright gold by about a million tourist hands. It shows the martyrdom of St. John of Nepomuk — a priest thrown off this very bridge in 1393 on the orders of King Václav IV, possibly for knowing too much about the queen's secrets. The tradition says: touch it and you'll return to Prague. Now — I have to be honest with you — this tradition is not medieval. Nobody was doing this in 1600. It's a modern tourist ritual, probably only a few decades old. But here's the thing: it works brilliantly. I've been guiding for twelve years. Half the people who touch it are back within two years. Is that the magic? Or just that Prague is wonderful? Jury's still out. Touch it anyway.",
+      "status": "traditional tale",
+      "where": "Charles Bridge — St. John of Nepomuk plaque, left railing heading toward Old Town",
+      "tell_tip": "Let people touch it before you deliver the 'it's modern' reveal — keeps the magic, adds the twist."
+    },
+    {
+      "title": "The Great Debate: Dog or Cross?",
+      "tale": "Now that you've touched the plaque — or wisely decided not to — let me complicate everything. Because there are two schools of thought on Charles Bridge luck. School One says: touch the figure of St. John himself, at the top of the relief. School Two says: touch the little dog at the bottom of the scene. The dog, apparently, is more powerful. Why? Because dogs are loyal and always come home. Which, if you think about it, is exactly the behaviour you want from a tourist. I personally belong to School Three, which says: touch whichever one you like, then spend money in a Czech restaurant, and Prague will definitely want you back. Every guide you meet on this bridge will give you a different answer. That's not confusion. That's Prague keeping you on your toes.",
+      "status": "legend",
+      "where": "Charles Bridge",
+      "tell_tip": "Ask the group to vote — dog or cross — before revealing there's no official answer. Creates instant engagement."
+    },
+    {
+      "title": "The Most Overhyped Minute in Europe",
+      "tale": "The Astronomical Clock on Old Town Square is, without question, one of the most remarkable medieval mechanisms ever built — six hundred years old, tracking the sun, the moon, the zodiac, the time in three different systems simultaneously. It is a masterpiece. And then the hour strikes, and the little doors open, and twelve wooden apostles shuffle past a tiny window, and a mechanical rooster flaps his wings, and the bell rings — and there is this moment where five hundred people look at each other and someone in the back says, very quietly, 'That was it?' Yes. That was it. I love this clock. I love this clock precisely because it promises the universe and delivers a puppet show. That's very Prague. Lower your expectations — and the city will absolutely astonish you. Keep them high — and you get a rooster.",
+      "status": "documented",
+      "where": "Old Town Square — Astronomical Clock (Orloj)",
+      "tell_tip": "Time this story to land just before the hour so the group experiences the anticlimax live. Perfect payoff."
+    },
+    {
+      "title": "Beer Cheaper Than Water",
+      "tale": "I'm going to tell you something that is completely true and sounds like a lie. In many Prague pubs, a half-litre of Czech beer costs less than a small bottle of mineral water. Not slightly less. Sometimes meaningfully less. This is because Czech beer is not a luxury — it is a utility. Like electricity. Like heating. You cannot charge more for it than the market will bear, and Czechs have been bearing the market for a thousand years. The Czech Republic drinks more beer per person than any nation on earth. Every year. Consistently. And the beer is excellent — Bohemia is where hops were cultivated for brewing long before Germany made it famous. So when you sit down in a pub and the menu arrives: order the beer. It's the cheapest thing, the best thing, and the most honest thing on the table.",
+      "status": "documented",
+      "where": "Any Czech pub (hospoda)",
+      "tell_tip": "Pause after 'mineral water' and let it sink in before explaining. Watch the disbelief turn to delight."
+    },
+    {
+      "title": "The Unwritten Rules of the Hospoda",
+      "tale": "Welcome to the Czech pub — the hospoda. A few rules, because this is a culture, not just a bar. Rule one: when your beer arrives, the waiter places a coaster down and makes a little mark on it. This is your tab. Do not lose the coaster. Do not fold it. The coaster is sacred. Rule two: the waiter will not check on you constantly. This is not neglect — this is respect. When you want another beer, make brief eye contact and nod. That's it. No waving. No calling out. No snapping fingers — please, never snapping fingers. Rule three: when you're done, say 'zaplatím' — 'I'll pay' — and they'll add it all up. And rule four — the best rule — when a fresh beer arrives, knock lightly on the table before you drink. A toast to the table. A toast to the room. Czechs do it without thinking. You should too.",
+      "status": "documented",
+      "where": "Czech pub (hospoda)",
+      "tell_tip": "Teach 'zaplatím' and 'na zdraví' early so the group can use them at the first lunch stop."
+    },
+    {
+      "title": "Czech Smile (It's Happening — You Just Can't See It)",
+      "tale": "Czechs are sometimes described as cold or unfriendly by visitors who spend ten minutes here. Those visitors are wrong, and I'll explain why. Czech culture has a deep, centuries-old tradition of deadpan. Of saying something devastating with a completely straight face. Of treating humour as a private matter between you and the universe. If a Czech person makes a joke at you, that means they like you. If they nod slightly and say 'no jo' — which roughly translates as 'well, yes, what did you expect' — that is high approval. If they say 'to je zajímavé' — 'that's interesting' — with no particular expression, run the words back in your head, because they just burned you alive and you missed it. This is the national art form. Bohumil Hrabal wrote it. Franz Kafka lived it. The Good Soldier Švejk weaponised it. Give it time. The warmth is there.",
+      "status": "documented",
+      "where": "General — any interaction with locals",
+      "tell_tip": "Deliver the whole story deadpan, then end with a big grin. You're modelling the very humour you're describing."
+    },
+    {
+      "title": "Švejk and the Art of Strategic Stupidity",
+      "tale": "There is a character in Czech literature who explains more about this country than any history book. His name is Jaroslav Hašek's Good Soldier Švejk — Josef Švejk — a bumbling, cheerful, apparently dim-witted soldier in the Habsburg army during the First World War. Švejk follows every order so enthusiastically and so literally that the entire military machine grinds to a halt around him. He is not stupid. He is brilliant. He is the Czech response to authority: complete, dazzling, weaponised compliance that somehow results in everything going wrong for the people in charge. Under Habsburg rule, under the Nazis, under communism — Czechs kept finding their inner Švejk. The resistance of 'I'm just doing what you said.' It saved lives. It preserved culture. It drove oppressors mad. And now there are pubs named after him on every corner, which he would have considered a perfect outcome.",
+      "status": "documented",
+      "where": "General — Czech literature and national character",
+      "tell_tip": "Ask if anyone has read the book first. Even if they haven't, the explanation lands as a cultural master key."
+    },
+    {
+      "title": "The Night the Keys Jangled",
+      "tale": "November 17, 1989. A student march in Prague — commemorating students killed by Nazis exactly fifty years earlier — turns into something else. The communist riot police beat the demonstrators on Národní třída, National Avenue, just a few streets from here. And something snapped. The next evening, a larger crowd came. Then larger. Then hundreds of thousands, pouring onto Wenceslas Square. And someone started jingling their keys in the air. Then someone else. Then everyone. The sound of a quarter million sets of keys jangling in the dark — the old sound of a jailer's keys, turned back on the jailers. Or: time's up. Your time is over. We're opening the door ourselves. Within twelve days, the communist government resigned. Within six weeks, a playwright named Václav Havel was president. No guns. Just keys. They still call it the Velvet Revolution.",
+      "status": "documented",
+      "where": "Wenceslas Square / Národní třída",
+      "tell_tip": "Ask everyone to take out their keys and jingle them at the end. Never fails — and they'll remember it forever."
+    },
+    {
+      "title": "'Havel to the Castle!'",
+      "tale": "In November 1989, as the Velvet Revolution swept through Czechoslovakia, the crowds on Wenceslas Square began chanting a name. 'Havel na hrad!' — Havel to the Castle. The Castle meaning Prague Castle, the seat of power. And the name meaning Václav Havel — a playwright. A man who had spent years writing absurdist theatre, who had been imprisoned by the communists for signing human rights charters, who had been banned, surveilled, harassed — and who had responded by writing plays about bureaucracies that make no sense and people who cannot be honest in a system that punishes honesty. His art was his resistance. And then one November, the crowd decided they'd rather have a playwright running the country than a committee of career apparatchiks. Havel became president on December 29, 1989. He gave his first address wearing jeans. Prague has impeccable taste.",
+      "status": "documented",
+      "where": "Wenceslas Square / Prague Castle",
+      "tell_tip": "Teach the group 'Havel na hrad!' and let them chant it. Three syllables, completely unforgettable."
+    },
+    {
+      "title": "The Candles of Wenceslas Square",
+      "tale": "On those November nights in 1989, there were candles everywhere. People who had nothing else to offer brought candles. In a country where public dissent had meant losing your job, your apartment, your children's university places — they came in the dark with small flames. The square held hundreds of thousands. You could see the candles from the hills. Alexander Dubček, the reform communist leader crushed by Soviet tanks in 1968, stood on a balcony over the square twenty-one years later and wept while the crowd chanted his name. Havel spoke. The actors struck. The bells of Prague rang. There are people alive in this city today who stood in that square with a candle and watched communism end. If you're here in November, you'll see fresh flowers and fresh candles laid at the memorial plaques on Národní třída. Living memory. Living city.",
+      "status": "documented",
+      "where": "Wenceslas Square / Národní třída",
+      "tell_tip": "Pause after 'small flames'. Let it breathe. This one doesn't need jokes — it carries itself."
+    },
+    {
+      "title": "November 17: The Date That Chose Itself",
+      "tale": "Here's something that gives you chills if you think about it. The Velvet Revolution began on November 17, 1989 — the anniversary of International Students' Day, which itself commemorates Czechoslovak students killed by the Nazis on November 17, 1939. Exactly fifty years earlier. The communist authorities planned to allow a commemorative march — controlled, managed, safe. They miscalculated. You cannot invite people to mourn the suppression of freedom on the anniversary of freedom being suppressed, and expect them to go home quietly. History has a sense of symmetry that authoritarian governments consistently underestimate. Fifty years on, almost to the hour, students were again beaten on the streets of Prague by the state police. And this time, instead of occupation, it triggered liberation. The date chose itself. Prague remembers it every year. November 17 is now a public holiday: the Day of Freedom and Democracy.",
+      "status": "documented",
+      "where": "Národní třída / Wenceslas Square",
+      "tell_tip": "Write the years 1939 and 1989 in the air as you say them. The symmetry lands visually as well as aurally."
+    },
+    {
+      "title": "The Biggest Stalin in the World (And What Happened to Him)",
+      "tale": "Up on Letná Hill, overlooking the city, there used to stand the largest monument to Joseph Stalin ever built. Fifteen metres tall. Twenty-two thousand tonnes of granite. Stalin at the front, followed by a queue of grateful Czech and Soviet workers — which Praguers immediately nicknamed 'the meat queue,' because that's exactly what it looked like. It was unveiled in 1955 — two years after Stalin had already died — because these things take time when you're carving a fifteen-metre dictator out of rock. By 1962, Khrushchev had denounced Stalin, de-Stalinization was underway, and the monument was dynamited. It took eight hundred kilograms of explosives and several attempts. The sculptor, Otakar Švec, did not live to see any of this: he took his own life the day before the unveiling, reportedly plagued by doubts. Prague does not do simple stories.",
+      "status": "documented",
+      "where": "Letná Park, Letná Hill",
+      "tell_tip": "The 'meat queue' nickname always lands. Pause after 'two years after Stalin died' — let them feel the full absurdity."
+    },
+    {
+      "title": "The Metronome: Keeping Time Where Stalin Stood",
+      "tale": "After the Stalin monument came down, the enormous granite plinth sat empty for decades — a monument to a monument, which is very philosophical if you think about it. Various proposals came and went. In 1991, sculptor Vratislav Karl Novák installed a giant metronome — a working, swinging metronome, ten metres tall — right there on the plinth where Stalin once glared down over the city. It keeps perfect time. It represents nothing in particular, which after Stalin is exactly what was needed. Teenagers skateboard around its base. Couples come to watch the sunset from the Letná terrace. The metronome swings left, right, left, right, indifferent to history and ideology and meat queues. Some people see it as a meditation on rhythm replacing frozen ideology. Others see a very large metronome. Both readings are entirely correct.",
+      "status": "documented",
+      "where": "Letná Park — Metronome, Letná terrace",
+      "tell_tip": "Walk the group up to Letná if the itinerary allows — the view alone justifies it, and the metronome needs to be seen in person."
+    },
+    {
+      "title": "The Day a Tank Turned Pink",
+      "tale": "In April 1991, a twenty-three-year-old art student named David Černý did something that caused a minor international incident. Soviet tank number 23 — a T-34, installed after the war as a monument to Soviet liberation — stood in the Smíchov district of Prague. Černý painted it pink. Bright, unambiguous, cheerful pink. He was arrested. The Soviet ambassador formally complained. The tank was repainted military green. Then a group of Czech members of parliament repainted it pink again, providing themselves as political cover against the diplomatic fallout. Eventually the whole thing was moved to a military museum, safely drab. Černý went on to become the most provocative public artist in the Czech Republic, which tells you something about the country's appetite for mischief. The pink tank is gone. The spirit of the pink tank is visible on approximately every street corner in Prague.",
+      "status": "documented",
+      "where": "Smíchov (original location); Military History Museum, Žižkov (current)",
+      "tell_tip": "Ask the group: 'Would you have repainted it?' Gets a lively answer every time."
+    },
+    {
+      "title": "The Wall That Never Stops Being Born",
+      "tale": "After John Lennon was shot in New York in December 1980, young Czechs began doing something that could get them arrested. They came to a wall in Malá Strana, just down from the French Embassy, and they painted his face. They wrote lines from Beatles songs. They wrote things they couldn't say anywhere else. The communist secret police, the StB, whitewashed the wall repeatedly. The next morning: more faces, more words. A whitewash took one night to undo. They couldn't keep up. After 1989, the wall became a landmark — but it also kept changing, kept absorbing new messages, new grief, new protests. When Russia invaded Ukraine in 2022, the wall filled with Ukrainian flags and messages overnight. It's not a monument. It's a conversation that hasn't stopped in forty-five years. Different hands, same impulse: say what's true, in colour, on a wall.",
+      "status": "documented",
+      "where": "Lennon Wall, Velkopřevorské náměstí, Malá Strana",
+      "tell_tip": "Bring markers if your tour operator allows it. Let people add something small. Instant connection to the living tradition."
+    },
+    {
+      "title": "Self-Deprecation as a Load-Bearing Wall",
+      "tale": "Ask a Czech how their country is doing and the honest answer, delivered with mild satisfaction, will probably be 'not bad, considering.' Considering what? Considering four hundred years under the Habsburgs. Considering being handed to Hitler at Munich while the rest of Europe made polite noises. Considering forty years of communism. Considering that the country has been invaded, occupied, reformed, purged, and divided — and is currently producing some of the best beer, film, literature, and architecture in Europe while maintaining a completely straight face about all of it. Czech self-deprecation isn't low self-esteem. It's armour, humour, and historical realism welded into a single cultural reflex. The joke is always: given everything, we're still here. Given everything, we built this. And then someone orders another beer and the conversation moves on.",
+      "status": "documented",
+      "where": "General — Czech culture",
+      "tell_tip": "End with 'and then someone orders another beer' and immediately raise your glass or gesture toward the nearest pub."
+    },
+    {
+      "title": "The Return Promise",
+      "tale": "There's a version of the Charles Bridge luck ritual that doesn't involve touching anything. It's simpler. You face the river — the Vltava, curving south through the city — and you make a private deal. You'll come back. It's not a prayer, exactly. It's more like an agreement between you and the city. Prague has an unusual relationship with return visits. Statistically implausible numbers of tourists come back within three years. Some guides claim this is the magic. Cynics — including most guides after their second coffee — will tell you it's because three days is never enough. The river is the same river that Smetana wrote about in Má vlast. The bridge is nine centuries old. The city has survived everything. It'll be here when you get back. And it has a very long memory. Touch the brass or don't. You'll probably be back regardless.",
+      "status": "legend",
+      "where": "Charles Bridge — overlooking the Vltava",
+      "tell_tip": "Use this as a closing beat on the bridge segment. It sends people off with a promise they'll want to keep."
+    }
+  ]
+}
