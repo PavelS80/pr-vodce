@@ -1,0 +1,418 @@
+{
+  "id": "signatures",
+  "type": "signatures",
+  "signature_lines": [
+    {
+      "cz": "Když se ztratíte, vzhlédněte — věže vám poví, kde jste.",
+      "en": "When you get lost, look up — the spires will tell you where you are.",
+      "where": "Úvodní orientace, jakákoli vyhlídka (Letná, Hradčany)"
+    },
+    {
+      "cz": "Hrad na západ, řeka uprostřed, most spojuje. Tři kotvy — uložte si je.",
+      "en": "Castle to the west, river in the middle, bridge between them. Three anchors — commit them to memory.",
+      "where": "Úvodní orientace nad městem"
+    },
+    {
+      "cz": "Tohle nejsou kulisy ani rekonstrukce. Tohle jsou originály — stojí tady proto, že bomby padly jinde.",
+      "en": "These are not stage sets, nor reconstructions. These are originals — they stand here because the bombs fell elsewhere.",
+      "where": "Proč Praha přežila, panorama"
+    },
+    {
+      "cz": "Praha nepustí. Tahle maminka má drápky. — Franz Kafka, 1902",
+      "en": "Prague never lets you go. This little mother has claws. — Franz Kafka, 1902",
+      "where": "Závěr úvodu nebo Josefov; nejlepší pointa na rozloučenou"
+    },
+    {
+      "cz": "Slova napsal Jirásek, hvězdy si nachytala Praha sama.",
+      "en": "Jirásek wrote the words. Prague caught the stars on its own.",
+      "where": "Vyšehrad, legenda o Libuši a proroctví"
+    },
+    {
+      "cz": "Brod nebyl místo, kde se přecházela řeka. Brod byla moc. Kdo stál u brodu, stál u pokladny.",
+      "en": "A ford wasn't a place to cross the river. A ford was power. Whoever stood at the ford stood at the cash box.",
+      "where": "Nad Vltavou, proč Praha vznikla zde"
+    },
+    {
+      "cz": "Karlův most nestojí tu, kde se dobře stavělo. Stojí tu, kudy odjakživa přecházel svět.",
+      "en": "Charles Bridge doesn't stand where it was easy to build. It stands where the world had always crossed.",
+      "where": "U Karlova mostu / Křižovnické náměstí"
+    },
+    {
+      "cz": "Město si nevybudovalo řeku. Řeka si vybudovala město.",
+      "en": "The city didn't build the river. The river built the city.",
+      "where": "Nábřeží, povodně, Bradáč"
+    },
+    {
+      "cz": "Smetana Vltavu nikdy neslyšel — napsal ji hluchý, z paměti. Já vám ji pouštět nebudu. Řeka je dost hlasitá sama o sobě.",
+      "en": "Smetana never heard the Vltava — he wrote it deaf, from memory. I won't play it for you. The river is loud enough on its own.",
+      "where": "Nábřeží / říční plavba"
+    },
+    {
+      "cz": "Žádný architekt to nenaplánoval. Naplánoval to čas.",
+      "en": "No architect planned it this way. Time did.",
+      "where": "Silueta Hradu — čtyři slohy, tisíc let na jednom hřebeni"
+    },
+    {
+      "cz": "Václav Havel zavolal Oscarovému kostymérovi. Praha prostě dělá věci takhle.",
+      "en": "Václav Havel called an Oscar-winning costume designer. Prague simply does things like that.",
+      "where": "Hradní stráž, modré uniformy od Pištěka"
+    },
+    {
+      "cz": "V roce 1348 udělal Karel IV. pro Prahu víc než celé generace před ním i po něm.",
+      "en": "In 1348, Charles IV did more for Prague than whole generations before him or after him.",
+      "where": "Karel IV. — Nové Město, univerzita, Karlštejn v jednom roce"
+    },
+    {
+      "cz": "Otec vlasti — titul, který dostal až na pohřbu. A zůstal mu dodnes.",
+      "en": "Father of the Homeland — a title he received only at his funeral. And it has stayed with him ever since.",
+      "where": "Karel IV., závěr"
+    },
+    {
+      "cz": "Pravda vítězí — jen počítejte s tím, že to chvíli trvá.",
+      "en": "Truth prevails — just be patient, it can take a while.",
+      "where": "Husův pomník, prezidentská standarta"
+    },
+    {
+      "cz": "Praha vynalezla slovo pro něco, co jiné národy jen dělaly: defenestraci.",
+      "en": "Prague invented the word for something other nations merely did: defenestration.",
+      "where": "Husité / Staroměstské náměstí / Hrad"
+    },
+    {
+      "cz": "Slepý velel armádě a neprohrál jedinou bitvu. To byl Jan Žižka.",
+      "en": "Blind, he led an army and never lost a battle. That was Jan Žižka.",
+      "where": "Husitské války"
+    },
+    {
+      "cz": "Nejméně věřící národ v Evropě se takový nenarodil. Udělali ho takovým.",
+      "en": "The least religious nation in Europe was not born that way. It was made that way.",
+      "where": "Po Bílé hoře, rekatolizace, dvě totality"
+    },
+    {
+      "cz": "Dva ze tří zákonů vesmíru — napsané v Praze, na císařův účet.",
+      "en": "Two of the three laws of the universe — written in Prague, on the emperor's tab.",
+      "where": "Rudolf II., Kepler, Astronomia Nova 1609"
+    },
+    {
+      "cz": "Praha není magická kvůli mýtům. Je magická tím, co se tu opravdu stalo.",
+      "en": "Prague isn't magical because of its myths. It's magical because of what really happened here.",
+      "where": "Rudolfova Praha — proti golemovskému klišé"
+    },
+    {
+      "cz": "Baroko nejsou jen krásné kostely — baroko je architektura vítěze.",
+      "en": "The Baroque isn't just beautiful churches — it's the architecture of the victor.",
+      "where": "Po Bílé hoře, Klementinum, barokní kupole"
+    },
+    {
+      "cz": "Stojíme na dvaceti sedmi křížích. Praha je v tom, co vypráví nahlas, vždycky pečlivě vybíravá.",
+      "en": "We are standing on twenty-seven crosses. Prague has always been careful about which stories it tells out loud.",
+      "where": "Staroměstské náměstí, poprava 1621"
+    },
+    {
+      "cz": "Kdo ovládá jazyk, ovládá národ.",
+      "en": "Control the language, and you control the nation.",
+      "where": "Národní obrození — Jungmann, slovník"
+    },
+    {
+      "cz": "Byli jsme před Rakouskem, budeme i po něm. — František Palacký",
+      "en": "We were here before Austria, and we shall be here after it. — František Palacký",
+      "where": "Národní obrození / Národní muzeum"
+    },
+    {
+      "cz": "Národ sobě. Třetí pád. Pro sebe. Žádný císař to nedaroval — postavil to národ.",
+      "en": "Národ sobě — the Nation to Itself. No emperor gave them this. The people built it.",
+      "where": "Národní divadlo, nápis na průčelí"
+    },
+    {
+      "cz": "Tři komunity sdílely dláždění, ale ne stoly.",
+      "en": "Three communities sharing the cobblestones, but never the dinner table.",
+      "where": "Kafkova Praha — Češi, Němci, Židé kolem 1900"
+    },
+    {
+      "cz": "Každé jméno je celý člověk. Celý svět. A tenhle svět byl vymazán.",
+      "en": "Every name is a whole human being. A whole world. And that world was erased.",
+      "where": "Pinkasova synagoga, 77 297 jmen"
+    },
+    {
+      "cz": "O nás bez nás — čtyři slova, do kterých se vejde celý Mnichov 1938.",
+      "en": "About us, without us — four words that hold the whole Munich betrayal of 1938.",
+      "where": "20. století, Mnichovská dohoda"
+    },
+    {
+      "cz": "Poslední čtyři náboje si nechali pro sebe. Nepodlehli. Nepřežili.",
+      "en": "They saved their last four bullets for themselves. They didn't surrender. They didn't survive.",
+      "where": "Resslova, krypta, parašutisté operace Anthropoid"
+    },
+    {
+      "cz": "Čím víc chtěli nacisté Lidice vymazat, tím víc si je svět zapamatoval.",
+      "en": "The harder the Nazis tried to erase Lidice, the more the world remembered it.",
+      "where": "Heydrichiáda, Lidice"
+    },
+    {
+      "cz": "Demokracie skončila jedním projevem. Vrátila se cinkáním klíčů.",
+      "en": "Democracy ended with a single speech. It came back with the jingling of keys.",
+      "where": "Únor 1948 → sametová revoluce 1989"
+    },
+    {
+      "cz": "Není to sebevražda. Je to pochodeň číslo jedna. — Jan Palach",
+      "en": "This is not a suicide. It is torch number one. — Jan Palach",
+      "where": "Václavské náměstí, leden 1969"
+    },
+    {
+      "cz": "Na stejné žule, kde stál Stalin, stál o čtyřicet let později Michael Jackson.",
+      "en": "On the same granite where Stalin stood, Michael Jackson stood forty years later.",
+      "where": "Letná, metronom — proměna města v jedné větě"
+    },
+    {
+      "cz": "Hospoda není bar. V baru se pije. V hospodě se žije.",
+      "en": "A hospoda is not a bar. A bar is where you drink. A hospoda is where you live.",
+      "where": "Praha dnes — pivní kultura"
+    },
+    {
+      "cz": "Praha není muzeum. Praha je živé město, kde se příběhy nikdy nepřestaly vyprávět — jen se mění vypravěč.",
+      "en": "Prague is not a museum. It is a living city — and the stories have never stopped. Only the storyteller changes.",
+      "where": "Strašidla / závěr prohlídky"
+    }
+  ],
+  "transitions": [
+    {
+      "cz": "Teď, když víte, kde jste a proč to tu pořád stojí, pojďme se podívat na místo, kde Praha vlastně začala.",
+      "en": "Now that you know where you are and why it is all still standing, let us go to the place where Prague actually began."
+    },
+    {
+      "cz": "A právě tady, na tomto prahu, se odehraje první skutečné pražské drama. Posuňme se kousek dál a já vám ukážu, kde to celé začalo.",
+      "en": "And it is here, on this threshold, that Prague's first truly historical drama unfolds. Let's move on a little and I'll show you where it all began."
+    },
+    {
+      "cz": "Řeka vybudovala město. A pak přišli lidé, kteří ten první přechod přes vodu proměnili v kámen — v most.",
+      "en": "The river built the city. Then people came and turned that first crossing into stone — into a bridge."
+    },
+    {
+      "cz": "Ale silueta z dálky je jedna věc — teď k ní pojďme zblízka. Vstupujeme na Hrad.",
+      "en": "But a silhouette from a distance is one thing — let's go up and meet it close. We are about to step inside the castle."
+    },
+    {
+      "cz": "Karel IV. položil základy — a teď se podíváme, co se z nich stalo za dalších sedmdesát let: jak husitská revoluce otřásla celou Evropou.",
+      "en": "Charles IV laid the foundations — and now let's see what became of them over the next seventy years: how the Hussite revolution shook all of Europe."
+    },
+    {
+      "cz": "Husitský příběh ale nekončí tady u sochy. Pokračuje pár desítek kroků odsud, kde roku 1621 popravili dvacet sedm vůdců povstání.",
+      "en": "But the Hussite story does not end here at the statue. It carries on a few dozen steps away, where in 1621 twenty-seven leaders of the uprising were executed."
+    },
+    {
+      "cz": "Pojďme teď k Mihulce a do uliček, kde Rudolfovi alchymisté skutečně tavili kovy — a kde se dotkneme i toho, co z téhle podivuhodné doby zbylo dodnes.",
+      "en": "Let's head now toward the Mihulka Tower and the lanes where Rudolf's alchemists really smelted their metals — and where we can still touch what this extraordinary age left behind."
+    },
+    {
+      "cz": "A od Temna a rekatolizace se dostaneme k jednomu jedinému muži, který se stal symbolem celého toho baroka — ke knězi svrženému do Vltavy.",
+      "en": "And from the Darkness and the re-Catholicisation we come to one single man who became the symbol of that whole Baroque age — a priest thrown into the Vltava."
+    },
+    {
+      "cz": "Z tohohle kulturního probuzení — z divadel, muzeí, slovníků a tělocvičen — brzy vyroste mnohem troufalejší sen: vlastní stát.",
+      "en": "From this cultural awakening — from theatres, museums, dictionaries and gymnasiums — a bolder dream will soon grow: a state of one's own."
+    },
+    {
+      "cz": "Opustíme teď tento vymazaný svět a vydáme se za tím, co přišlo po válce — jak Praha přežila dvě totality.",
+      "en": "Now we leave this erased world behind and turn to what came after the war — how Prague survived two totalitarian regimes."
+    },
+    {
+      "cz": "Devátého května 1945 vjela do Prahy Rudá armáda a město bylo volné. Jenže jedna okupace tu vystřídala druhou — tahle už bez kulek, jen s rudou hvězdou.",
+      "en": "On the 9th of May 1945 the Red Army rolled into Prague and the city was free. But one occupation here gave way to another — this time without bullets, only with a red star."
+    },
+    {
+      "cz": "Ta revoluce otevřela dveře, jimiž Praha vkročila zpátky do Evropy. Pojďme se podívat, co z té proměny vidíme kolem sebe.",
+      "en": "That revolution opened the doors through which Prague stepped back into Europe. Let us look at what that transformation left around us."
+    },
+    {
+      "cz": "A teď vás na chvíli vezmu za tu kulisu — do Prahy, kde se nevybírá vstupné.",
+      "en": "Now let me take you, just for a moment, behind that postcard — into the Prague that doesn't charge admission."
+    },
+    {
+      "cz": "Přejdeme teď přes řeku na Malou Stranu — tam, kde za barokními průčelími se skrývají zahrady, paláce a jeden z nejzáhadnějších mostů v Evropě.",
+      "en": "We'll cross the river to Malá Strana now — where behind the baroque facades hide gardens, palaces, and one of the most mysterious bridges in Europe."
+    },
+    {
+      "cz": "Přesuneme se teď z průvodcovského kabinetu triků do prostoru, kde Praha přestává být dekorací a stává se scénou: do hospody, na tramvajovou zastávku, do parku.",
+      "en": "We move now from the guide's cabinet of tricks into the space where Prague stops being a backdrop and becomes a stage: the pub, the tram stop, the park bench."
+    },
+    {
+      "cz": "Teď, když víte, jak se v Praze pohybovat, co platit, komu věřit a čemu nevěřit — pojďme se konečně podívat na to, co tu skutečně stojí za vidění.",
+      "en": "Now that you know how to move through Prague, what to pay, who to trust, and what to take with a pinch of salt — let us finally look at what here is actually worth seeing."
+    }
+  ],
+  "jokes": [
+    {
+      "cz": "Bolzano byl puntičkář. Ale to jméno si necháme — protože „Praha pětistověžatá“ se blbě pamatuje.",
+      "en": "Bolzano was a stickler. But we'll keep the name — because 'the City of Five-Hundred-and-Something Spires' is murder to remember.",
+      "note": "U přezdívky stověžatá Praha, lehký úvod"
+    },
+    {
+      "cz": "Bílý kůň jako navigace devátého století. A zhruba stejně spolehlivý — tam je dovezl správně, zpátky si museli poradit sami.",
+      "en": "A white horse as ninth-century satnav. About as reliable, too — it got them there, but the way back was on them.",
+      "note": "Vyšehrad, legenda o Přemyslovi a koni Libuše"
+    },
+    {
+      "cz": "Schválně se té věži v příštích dnech ztraťte. Nepůjde to.",
+      "en": "Go on — try to lose sight of that tower over the next few days. You won't manage.",
+      "note": "Ukazujete na věž sv. Víta z dálky"
+    },
+    {
+      "cz": "Polský Malbork je větší? Má pravdu. Praha vyhrává v kategorii „starobylý“ — je to jako být nejrychlejší běžec mezi devadesátiletými. Pořád je to rekord.",
+      "en": "Poland's Malbork is bigger? They're right. Prague wins the 'ancient' category — it's like being the fastest runner among ninety-year-olds. It still counts as a record.",
+      "note": "Když někdo ze skupiny zpochybní rekord Hradu"
+    },
+    {
+      "cz": "Otec vlasti málem prohrál s Járou Cimrmanem — postavou, která nikdy neexistovala. I to je Česko.",
+      "en": "The Father of the Homeland nearly lost to Jára Cimrman — a man who never existed. That, too, is the Czech Republic.",
+      "note": "Karel IV. / anketa Největší Čech / český humor"
+    },
+    {
+      "cz": "Proč ti tři přežili pád z hradního okna? Katolíci: chytili je andělé. Protestanti: spadli na hnůj. Každá strana viděla přesně ten zázrak, který potřebovala.",
+      "en": "Why did the three survive the fall from the castle window? Catholics: angels caught them. Protestants: they landed on a dung heap. Each side saw precisely the miracle it needed.",
+      "note": "Defenestrace 1618"
+    },
+    {
+      "cz": "Sekretáře Fabricia po pádu z okna povýšili do šlechtického stavu s přídomkem „z Vysokého pádu“ — jeden z mála mužů v dějinách, který si vysloužil titul tím, že přežil vyhazov z práce.",
+      "en": "After his fall, secretary Fabricius was ennobled with the title 'von Hohenfall' — 'of the High Fall' — one of the few men in history to earn a noble title by surviving being thrown out of a job.",
+      "note": "Defenestrace 1618, pointa"
+    },
+    {
+      "cz": "Kelley tvrdil, že mu uši uřízli andělé, protože ho rušily při hovoru s nebem. Pravda je prozaičtější: usekl mu je v Anglii kat za padělání. A císař mu to spolkl.",
+      "en": "Kelley claimed angels took his ears because the noise disturbed his conversations with heaven. The truth is more prosaic: an English executioner cut them off for forgery. And the emperor swallowed it whole.",
+      "note": "Rudolf II., alchymista Edward Kelley"
+    },
+    {
+      "cz": "Mlíko — pivo skoro samá pěna — si dáte právě jednou. Pak už budete vědět.",
+      "en": "Mlíko, 'milk' — beer poured as almost pure foam — you'll order exactly once. After that, you'll know.",
+      "note": "Pivní kultura, tři způsoby nalití"
+    },
+    {
+      "cz": "V Evropě je Budweiser české pivo. V Americe je to… to druhé.",
+      "en": "In Europe, Budweiser is the Czech beer. In America, it's… the other thing.",
+      "note": "Budvar vs. Anheuser-Busch"
+    },
+    {
+      "cz": "Orloj: toto je druhé největší zklamání v Praze. To největší vám řeknu příště. (A po čtyřiceti vteřinách:) Mějte pochopení — středověk neměl YouTube.",
+      "en": "The Astronomical Clock: this is Prague's second biggest disappointment. I'll tell you the first one next time. (And after forty seconds:) Have some sympathy — the Middle Ages did not have YouTube.",
+      "note": "Před orlojem, deset minut před celou hodinou"
+    },
+    {
+      "cz": "Nápis ve směnárně říká nula procent poplatek. To je pravda. Jenže kurz je o čtvrtinu horší. To je, přátelé, matematika — ne podvod. Legální matematika.",
+      "en": "The exchange booth sign says zero percent commission. That's true. But the rate is a quarter worse. That, my friends, is arithmetic, not fraud. Legal arithmetic.",
+      "note": "Praktické tipy, směnárny na Václaváku"
+    }
+  ],
+  "myth_corrections": [
+    {
+      "cz": "Říká se, že „stověžatou Prahu“ vymyslel Bolzano. Ve skutečnosti věže jen spočítal — došel ke stu třem. Pojmenování zrodil historik Josef Hormayer. Bolzano počítal, Hormayer básnil.",
+      "en": "It's often said Bolzano coined 'hundred-towered Prague.' In truth he merely counted them — reaching one hundred and three. The phrase was minted by the historian Josef Hormayer. Bolzano did the arithmetic; Hormayer did the poetry."
+    },
+    {
+      "cz": "Uslyšíte, že Hitler chtěl z Prahy udělat „muzeum vyhynulé rasy“. Je to dojemná legenda bez jediného dokladu v nacistických archivech — sbírku Židovského muzea shromáždila především sama židovská obec.",
+      "en": "You'll hear that Hitler meant to make Prague a 'museum of an extinct race.' It is a moving legend with no support in the Nazi archives — the Jewish Museum's collection was assembled chiefly by the Jewish community itself."
+    },
+    {
+      "cz": "„Praha prošla válkou bez úhony“ platí jen pro historické jádro. Spojenci ji bombardovali třikrát; únorový nálet roku 1945 zabil 701 lidí v obytných čtvrtích.",
+      "en": "'Prague came through the war untouched' is true only of the historic core. The Allies bombed it three times; the February 1945 raid killed 701 people in residential districts."
+    },
+    {
+      "cz": "„Město vidím veliké, jehož sláva se hvězd dotýká“ neřekla Libuše — napsal to Alois Jirásek roku 1894. Kosmas má proroctví obecnější; ta věta je literatura.",
+      "en": "'I see a great city whose glory will touch the stars' was never spoken by Libuše — Alois Jirásek wrote it in 1894. Cosmas records a vaguer prophecy; the line itself is literature."
+    },
+    {
+      "cz": "Existovala Libuše? Nemáme jediný hmatatelný důkaz. Je to krásná legenda — zato dynastie Přemyslovců je čtyři sta let tvrdé reality.",
+      "en": "Did Libuše exist? There's not a single tangible trace. She is a beautiful legend — whereas the Přemyslid dynasty is four hundred years of hard fact."
+    },
+    {
+      "cz": "Že Praha pochází od slova „práh“, je nejhezčí, ne však jistá teorie. Soupeří s výkladem od „vyprahlého“ břidličného návrší — a jazykovědci se neshodli.",
+      "en": "That 'Praha' comes from práh, a threshold, is the loveliest theory, not a settled one. It competes with a derivation from the 'parched' slate ridge — and the linguists have never agreed."
+    },
+    {
+      "cz": "Legenda klade první sídlo Přemyslovců na Vyšehrad. Archeologie dává přednost Pražskému hradu — Bořivoj, kolem roku 880; Vyšehrad je o sto let mladší. Legenda si jen vybrala lepší výhled.",
+      "en": "Legend puts the first Přemyslid seat on Vyšehrad. Archaeology favours Prague Castle — Bořivoj, around 880; Vyšehrad is a century younger. The legend simply chose the better view."
+    },
+    {
+      "cz": "Smetana nenapsal Vltavu v nostalgickém exilu ve Švédsku, nýbrž doma v Praze roku 1874 — už zcela hluchý, za pouhých devatenáct dní.",
+      "en": "Smetana did not write the Vltava in nostalgic Swedish exile, but at home in Prague in 1874 — already completely deaf, in just nineteen days."
+    },
+    {
+      "cz": "Pražský hrad není „největší hrad na světě“ bez podmínek — Guinness uvádí přesně „největší starobylý hrad“. Polský Malbork je plochou větší. To slovo „starobylý“ musíte slyšet celé.",
+      "en": "Prague Castle is not the 'largest castle in the world' without qualification — Guinness says precisely 'largest ancient castle.' Poland's Malbork is larger by area. You must hear that word 'ancient' in full."
+    },
+    {
+      "cz": "Katedrála sv. Víta se nestavěla tisíc let, nýbrž 585 — od základního kamene roku 1344 po dokončení roku 1929. Tisíciletí patří hradnímu kopci, ne chrámu.",
+      "en": "St Vitus Cathedral did not take a thousand years to build, but 585 — from the foundation stone in 1344 to completion in 1929. The millennium belongs to the castle hill, not the church."
+    },
+    {
+      "cz": "Karel IV. nemluvil čtyřmi jazyky, nýbrž pěti. A největší Čech historie se musel po návratu z Paříže znovu doučit vlastní češtinu.",
+      "en": "Charles IV spoke not four languages but five. And the greatest Czech in history had to relearn his own Czech after returning from Paris."
+    },
+    {
+      "cz": "Palindrom 1-3-5-7-9-7-5-3-1 prý určil čas položení základního kamene mostu. Jenže ve 14. století se psalo římsky a juliánsky a minuty se neměřily — teorii vymyslel astronom Zdeněk Horský až roku 1979. Krásná. Nedoložená.",
+      "en": "The palindrome 1-3-5-7-9-7-5-3-1 supposedly fixed the moment the bridge's foundation stone was laid. But in the fourteenth century they wrote in Roman numerals on the Julian calendar and never measured minutes — the theory was invented by the astronomer Zdeněk Horský in 1979. Beautiful. Unsubstantiated."
+    },
+    {
+      "cz": "Do malty Karlova mostu se prý přidávala vejce. Půvabná historka — moderní rozbory malty po vejcích ani stopy nenašly.",
+      "en": "Eggs were supposedly mixed into the mortar of Charles Bridge. A charming tale — modern analysis of the mortar has found no trace of them."
+    },
+    {
+      "cz": "Že defenestrované roku 1618 zachytili andělé — nebo že spadli na hnůj — jsou obě dobové propagandy. Střízlivá pravda: pád po svahu příkopu se dal přežít i bez zázraku.",
+      "en": "That the men flung from the window in 1618 were caught by angels — or that they landed on a dung heap — are both period propaganda. The sober truth: a fall down the slope of a ditch was survivable without any miracle."
+    },
+    {
+      "cz": "Hus prý na hranici prorokoval: „Dnes pečete husu, za sto let přiletí labuť.“ Neřekl to — tu větu zformuloval o sto let později Luther a vztáhl ji na sebe.",
+      "en": "Hus supposedly prophesied at the stake: 'Today you roast a goose, in a hundred years a swan will come.' He said no such thing — Luther shaped that line a century later and applied it to himself."
+    },
+    {
+      "cz": "Ve Zlaté uličce nikdy nebydleli alchymisté. Patřila zlatníkům a hradním střelcům; alchymisté Rudolfa II. tavili kovy o kus dál, v Prašné věži Mihulce. „Ulička hradních střelců“ se ovšem hůř prodává.",
+      "en": "No alchemists ever lived in Golden Lane. It belonged to goldsmiths and castle marksmen; Rudolf II's alchemists smelted their metals a little further on, in the Mihulka Powder Tower. 'Castle Marksmen's Lane,' admittedly, sells less well."
+    },
+    {
+      "cz": "Golema prý uhnětl rabi Löw za Rudolfa II. Rabi Löw byl skutečný učenec — ale s hliněným obrem ho spojila až literatura 19. století, téměř dvě stě let po jeho smrti.",
+      "en": "The Golem was supposedly moulded by Rabbi Löw under Rudolf II. Rabbi Löw was a real scholar — but it was nineteenth-century literature that tied him to the clay giant, nearly two hundred years after his death."
+    },
+    {
+      "cz": "Kafka nepsal česky, nýbrž výhradně německy — patřil do pražského německo-židovského okruhu. Kdo tvrdí jinak, splet si autora s adresou.",
+      "en": "Kafka did not write in Czech but exclusively in German — he belonged to Prague's German-Jewish circle. Anyone who says otherwise has confused the author with his address."
+    },
+    {
+      "cz": "Orloj nepostavil mistr Hanuš a konšelé ho za to neoslepili. Stroj sestrojil Mikuláš z Kadaně roku 1410; Hanuš jej o generaci později jen spravoval. Příběh o oslepení vymyslel Jirásek roku 1894.",
+      "en": "Master Hanuš did not build the Astronomical Clock, and the councillors did not blind him for it. The machine was made by Mikuláš of Kadaň in 1410; Hanuš merely tended it a generation later. The blinding tale was invented by Jirásek in 1894."
+    },
+    {
+      "cz": "Sochy na Karlově mostě nejsou barokní originály, nýbrž výborné kopie. Originály jsou v bezpečí v Gorlici na Vyšehradě — jako s Venuší Mélskou: mramor je skutečný, jen ta nejkrásnější verze visí v jiné místnosti.",
+      "en": "The statues on Charles Bridge are not Baroque originals but excellent replicas. The originals rest safely in the Gorlice casemates at Vyšehrad — like the Venus de Milo: the marble is real, the finest version simply stands in another room."
+    },
+    {
+      "cz": "Václavské náměstí žádné náměstí není — je to bulvár, 750 metrů dlouhý a 60 široký. Původně Koňský trh Karla IV. z roku 1348. Přejmenovat lze, geometrii ne.",
+      "en": "Wenceslas Square is no square at all — it's a boulevard, 750 metres long and 60 wide. Originally Charles IV's Horse Market of 1348. You can rename it; you can't rename its geometry."
+    },
+    {
+      "cz": "Pražské Jezulátko není v Loretě. Slavná vosková soška stojí v kostele Panny Marie Vítězné v Karmelitské ulici na Malé Straně; Loreta na Hradčanech je jiný příběh i jiná vstupenka.",
+      "en": "The Infant Jesus of Prague is not in the Loreto. The famous wax figure stands in the Church of Our Lady Victorious in Karmelitská Street, Malá Strana; the Loreto on Hradčany is a different story and a different ticket."
+    },
+    {
+      "cz": "Heydrich nebyl zastřelen — Gabčíkův samopal selhal. Zabily ho střepiny granátu a infekce z úlomků čalounění a koňské žíně ze sedadla. Jeden z nejhorších mužů Evropy zemřel na sepsi z autopotahu.",
+      "en": "Heydrich was not shot — Gabčík's Sten gun jammed. He was killed by grenade shrapnel and an infection from splinters of upholstery and horsehair from the car seat. One of the worst men in Europe died of sepsis from his own upholstery."
+    },
+    {
+      "cz": "Prahu v květnu 1945 neosvobodila Rudá armáda sama — Pražané povstali už 5. května, čtyři dny před jejím příchodem 9. května, a bránili se na dvou tisících barikád.",
+      "en": "The Red Army did not liberate Prague alone in May 1945 — Praguers rose on the 5th of May, four days before it arrived on the 9th, and fought from two thousand barricades."
+    },
+    {
+      "cz": "„Temno“ jako tři staletí tmy po Bílé hoře je pozdější výklad. Jiráskův román téhož jména se odehrává v pouhých šesti letech, 1723–1729.",
+      "en": "'The Darkness' as three centuries of gloom after White Mountain is a later reading. Jirásek's novel of that name spans a mere six years, 1723 to 1729."
+    },
+    {
+      "cz": "Jan Nepomucký nezemřel kvůli zpovědnímu tajemství královny, nýbrž v mocenském sporu krále s arcibiskupem o obsazení úřadů. Legenda o zpovědi přišla až s jeho svatořečením.",
+      "en": "John of Nepomuk did not die over the queen's confession, but in a power struggle between king and archbishop over church appointments. The confession legend came only with his canonisation."
+    },
+    {
+      "cz": "Dotýkat se sochy Jana Nepomuckého „pro štěstí“ není starobylý rituál — vznikl až po roce 1989, nejspíš jako průvodcovský vtip, který turisté přijali za pravdu.",
+      "en": "Touching the statue of John of Nepomuk 'for luck' is no ancient rite — it arose only after 1989, most likely as a guide's joke that tourists took for gospel."
+    },
+    {
+      "cz": "Stalinův pomník na Letné nebyl „největší na světě“ v absolutním smyslu — byl ale největší sochou Stalina, jaká kdy stála, a největším skupinovým sousoším v Evropě.",
+      "en": "The Stalin monument on Letná was not the 'largest in the world' in absolute terms — but it was the largest statue of Stalin ever built, and the largest group sculpture in Europe."
+    }
+  ]
+}

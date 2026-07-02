@@ -1,0 +1,133 @@
+{
+  "id": "cat-01",
+  "category_en": "Funny & Absurd History",
+  "category_note": "Prague has been throwing people out of windows, waiting for clockwork roosters, and drinking more beer than anyone on earth for six centuries. Here is the history they do not teach in school — but really should.",
+  "stories": [
+    {
+      "title": "Prague's Gift to Political Science",
+      "tale": "In 1618, a group of Protestant noblemen marched into Prague Castle and threw three royal Catholic governors out of a third-floor window. Twenty-one metres straight down. Now, here is the punchline: all three survived. The Catholics immediately announced it was a miracle — angels had caught them on the way down. The Protestants had a rather different theory, pointing to the enormous pile of horse manure directly below the window that had helpfully broken their fall. The embarrassing survival of the defenestrated men did not stop the incident from triggering the Thirty Years' War — a conflict that killed somewhere between a quarter and a third of the population of Central Europe. Political science has never fully recovered. Prague, incidentally, has done this three times in its history, which is why the English language has the word 'defenestration' at all. You're welcome, world.",
+      "status": "documented",
+      "where": "Below the Old Royal Palace windows, Prague Castle — Third Courtyard",
+      "tell_tip": "Pause after 'all three survived' — let it land. The dung-heap detail always gets the laugh."
+    },
+    {
+      "title": "The First Time: Hussites Set the Bar",
+      "tale": "The 1618 defenestration gets all the press, but Prague had already invented the procedure two hundred years earlier. In 1419, a preacher named Jan Zelivsky led a Hussite mob to the New Town Hall. They demanded the release of some imprisoned Hussites. The councillors inside, perhaps misjudging the mood, declined. The crowd threw them out of the window. Several died. The one-eyed military genius Jan Zizka — who would go on to never lose a battle in his life — was reportedly present, though the story goes he may have been there to observe rather than to participate. This event is traditionally called the First Defenestration of Prague, which implies, correctly, that more were planned. The New Town Hall still stands on Charles Square. The window has been discreetly excluded from most official tour brochures.",
+      "status": "documented",
+      "where": "New Town Hall, Karlovo namesti (Charles Square)",
+      "tell_tip": "The 'more were planned' line works best as a dry aside — deliver it deadpan, then walk."
+    },
+    {
+      "title": "The Third One: Nobody's Laughing",
+      "tale": "In March 1948, two weeks after the Communist coup, Foreign Minister Jan Masaryk — son of the founder of Czechoslovakia — was found dead in the courtyard of the Czernin Palace. He had fallen from the bathroom window of his apartment four floors above. The Communist government called it suicide. For decades, that was the official story. Then forensic investigators re-examined the evidence and concluded the injuries were inconsistent with a simple fall from a sitting or standing position, suggesting he had been pushed or thrown. The case has been reopened and re-examined multiple times since. A definitive verdict has never been reached. In other cities, important men die of heart attacks or retire quietly to the country. In Prague they go out of windows. It is the city's most persistent political tradition. Prague's third defenestration: the one that still has not landed.",
+      "status": "uncertain",
+      "where": "Czernin Palace, Hradcany — now the Czech Foreign Ministry",
+      "tell_tip": "'The one that still has not landed' is your closer. Keep the tone quieter here — this one earns unease more than laughter."
+    },
+    {
+      "title": "The Astronomical Clock: The Second-Biggest Disappointment in Prague",
+      "tale": "Every hour on the hour, a crowd of several hundred people gathers in Old Town Square and stares up at the Astronomical Clock. A small door opens. Twelve wooden Apostles file past the windows in about forty-five seconds. A rooster flaps its wings and crows. A bell rings. And then the crowd looks at each other. You can see it happen — the collective dawning realisation. 'Was that it?' Yes. That was it. The clock has been doing exactly this since 1410. It is six hundred years old, it tracks the movement of the sun and moon with medieval precision, it is one of the finest surviving examples of Gothic mechanical engineering anywhere in the world — and the number one tourist comment is: 'I waited twenty minutes for that?' The first-biggest disappointment in Prague, since you are wondering, is the queue to get into the castle.",
+      "status": "documented",
+      "where": "Old Town Square, directly in front of the Old Town Hall Tower",
+      "tell_tip": "Best delivered standing in the crowd just before the hour strikes, so the payoff happens in real time behind you."
+    },
+    {
+      "title": "The Blind Clockmaker",
+      "tale": "The legend says that after the Astronomical Clock was finished in 1410, the city councillors of Prague were so afraid the clockmaker might build an equally magnificent clock somewhere else that they had him blinded. The furious clockmaker then groped his way to the mechanism and sabotaged it, so that no one could fix it without him. He died shortly after, taking the secret with him. It is a magnificent story. It is almost certainly not true — the historical record is thin, it only appears in sources written centuries later, and blind clockmakers sabotaging their own masterworks is precisely the kind of tale that improves with each retelling. The clock did break down multiple times over the centuries. Whether from sabotage, neglect, or the general entropy of six-hundred-year-old machinery, I leave to your imagination.",
+      "status": "legend",
+      "where": "Old Town Square, standing beneath the clock face",
+      "tell_tip": "Flag it as a legend honestly — then add: 'It is a better story than the truth, which is that we do not know exactly who built it.'"
+    },
+    {
+      "title": "Rudolf II: The Emperor Who Preferred Owls to Ambassadors",
+      "tale": "Holy Roman Emperor Rudolf II moved the imperial capital from Vienna to Prague in 1583 and then essentially refused to leave his castle for the rest of his life. He had severe social anxiety — possibly more than that — and conducted most of the empire's business through intermediaries while spending his own time collecting. He collected paintings: thousands of them. He collected curiosities: narwhal tusks sold to him as unicorn horns, mandrake roots shaped like human figures, a stuffed dodo. He collected live animals: lions, tigers, a bear. He also collected astrologers, alchemists, and two of the greatest astronomers of the age — Tycho Brahe and Johannes Kepler — who produced some of the most important science in human history while their employer sat nearby weighing bezoar stones for their magical healing properties.",
+      "status": "documented",
+      "where": "Prague Castle, Powder Tower — site of Rudolf's alchemical laboratory",
+      "tell_tip": "The Tycho-and-Kepler line is your payoff: real science accidentally produced inside an emperor's cabinet of nonsense."
+    },
+    {
+      "title": "The Astronomer and the Elk",
+      "tale": "Tycho Brahe, the Danish astronomer who worked at Rudolf II's Prague court, was already famous for wearing a prosthetic metal nose — the result of a duel over a mathematical disagreement, which is an extremely Scandinavian way to lose your nose. But the most characteristic detail of his life is this: Brahe kept a pet elk. The elk, apparently bored of astronomical instruments, got into the beer stores at a nobleman's party, drank itself insensible, fell down a staircase, and died. This is the story as it has come down to us. Whether the elk died immediately or the staircase merely began a longer decline varies by telling. What does not vary is that the greatest naked-eye astronomer of his age was, for a period, outlived by his drunk elk. The story goes this happened in Denmark before he arrived in Prague, but it sounds exactly like a Prague story.",
+      "status": "traditional tale",
+      "where": "Best told anywhere near Prague Castle, in Rudolf II's context",
+      "tell_tip": "'Duel over a mathematical disagreement' gets the first laugh. The elk is the kicker. Do not rush it."
+    },
+    {
+      "title": "Beer: A Medical Prescription",
+      "tale": "For most of Prague's medieval history, the city's water supply ranged from unreliable to actively dangerous. The Vltava was, among other things, the city's sewer. Brewing, on the other hand, was tightly regulated, seriously regarded, and central to civic life — nearly every burgher in Prague had brewing rights at some point. Beer was genuinely safer to drink than water for most of the population for most of the city's history. This is not a quirky fun fact. This is how things actually were. Fast-forward to today: the Czech Republic consumes more beer per capita than any other nation on earth — roughly 188 litres per person per year. That is approximately one pint per day, every day, including the day you are born and the day you die. The Czechs did not develop this habit out of self-indulgence. They developed it on medical advice. Six hundred years ago. And they have never stopped.",
+      "status": "documented",
+      "where": "Any pub in the Old Town — ideally mid-first-pint",
+      "tell_tip": "'On medical advice, six hundred years ago.' Clinically delivered. No grin until after the pause."
+    },
+    {
+      "title": "The Beer That Started by Being Poured in the Street",
+      "tale": "In 1838, the burghers of Plzen — ninety minutes west of Prague — poured thirty-six barrels of beer into the street in protest. Not because they were celebrating. Because the beer was so bad they refused to sell it. Embarrassed and furious, the town hired a Bavarian brewer named Josef Groll, gave him a new underground cellar carved into local sandstone, and told him to sort it out. In 1842, Josef Groll produced the world's first pale golden lager: Pilsner Urquell. Every light beer on earth is descended from that moment. Budweiser. Heineken. Corona. Every one of them. The entire global light-beer market, worth hundreds of billions of dollars, exists because the people of Plzen were too proud to drink bad beer and poured it in the road. Czech stubbornness: occasionally very productive.",
+      "status": "documented",
+      "where": "Any bar serving Pilsner Urquell — or at the main train station if they are heading to Plzen",
+      "tell_tip": "'Czech stubbornness: occasionally very productive.' Flat. No elaboration. Walk."
+    },
+    {
+      "title": "The Saint, the Tongue, and the Inconvenient Science",
+      "tale": "In 1393, King Wenceslas IV had his confessor Jan of Nepomuk thrown from Charles Bridge into the Vltava. The traditional story: the king suspected his wife of infidelity, demanded that Jan reveal what she had confessed, Jan refused on grounds of the seal of confession, and into the river he went. When his tomb was opened in 1729, his skull was found to contain what appeared to be a preserved, intact tongue — taken as miraculous proof of his martyrdom. They placed it in a golden reliquary. Pilgrims came from across Europe. Then, in 1973, scientists analysed the relic and determined it was not a tongue. It was mummified brain tissue. The Catholic Church, to its credit, did not cancel the saint. Jan of Nepomuk remains the patron of bridges, confessors, and — one might argue — the awkward relationship between faith and forensics.",
+      "status": "uncertain",
+      "where": "Charles Bridge, at the Nepomuk statue with the five bronze stars",
+      "tell_tip": "'It was mummified brain tissue' — drop it quietly, not triumphantly. Horrified silence is better than laughter."
+    },
+    {
+      "title": "The Giant Stalin That Everyone Hated",
+      "tale": "In 1955, Prague unveiled the largest group statue of Stalin in the world: a massive granite procession of Soviet and Czech workers marching behind the great leader, looming over the city from the Letna plateau above the river. It took seven years to build. It was demolished seven years later, in 1962, three years after Khrushchev denounced Stalin. The sculptor, Otakar Svec, committed suicide shortly before the unveiling — reportedly from exhaustion and the dawning realisation of what he had created. During its short existence, Prague residents nicknamed the monument 'the bread queue,' because the figures marching behind Stalin looked exactly like a line of people waiting for rationed bread. The site now has a giant metronome that does not keep time. Which feels, honestly, about right.",
+      "status": "documented",
+      "where": "Letna Park — stand at the giant metronome and look at the empty plinth",
+      "tell_tip": "'The bread queue' nickname plus the metronome punchline is a double closer. Use both, slow down for the second one."
+    },
+    {
+      "title": "Good King Wenceslas: A Carol About a Murder Victim",
+      "tale": "Every Christmas, carol singers across the English-speaking world perform 'Good King Wenceslas looked out, on the feast of Stephen' — a rousing tribute to the benevolent ruler of Bohemia. Two things about this. First: the carol was written in 1853 by an English bishop who had almost certainly never visited Bohemia, and set it to a thirteenth-century Swedish spring melody. Second: the real Wenceslas — Vaclav I, Duke of Bohemia — was murdered by his own younger brother Boleslav, nicknamed 'the Cruel,' in 929, possibly 935, while on his way to morning Mass. The historical sources disagree on the year. They do not disagree on the brother. So yes — Good King Wenceslas. Murdered at dawn. By a sibling. The carol mentions none of this. It is, on balance, a much better carol for it.",
+      "status": "documented",
+      "where": "Wenceslas Square, at the statue of Saint Vaclav at the top of the square",
+      "tell_tip": "'It is a much better carol for it.' Dry. Immediate pivot to next point. The audience will take a beat to catch up."
+    },
+    {
+      "title": "The Horse That Founded Prague",
+      "tale": "The founding legend of Prague goes like this: the prophetess Princess Libuse stands on a cliff above the Vltava and announces a vision — a great city whose glory will touch the stars. She instructs her servants to follow her white horse wherever it leads. The horse takes them to a man ploughing a field. That man, Premysl the Ploughman, becomes her husband and founds the ruling dynasty of Bohemia. They name their city Praha — from the Czech word for threshold or doorstep — because the man was making a 'prah,' a wooden door threshold, when they found him. It is a gloriously cinematic foundation myth. What the legend never explains is what happened to the horse, who did all the actual navigation, or why a prophetess could not simply walk to the field herself. The Premyslid dynasty lasted four hundred years. The horse is not mentioned again.",
+      "status": "traditional tale",
+      "where": "Vysehrad fortress — where Libuse's throne supposedly stood, overlooking the river",
+      "tell_tip": "'The horse is not mentioned again.' Keep a straight face. Let someone else smile first."
+    },
+    {
+      "title": "The Golem's Day Off",
+      "tale": "Rabbi Judah Loew ben Bezalel — the Maharal of Prague, a real and genuinely brilliant scholar — is credited by legend with creating the Golem: a figure of clay brought to life by placing a slip of paper with the word emet, meaning truth, in its mouth. The Golem would protect Prague's Jewish Quarter from persecution. The story goes that on Shabbat, when no work could be done, the Rabbi would remove the paper and the Golem would rest. One Friday evening, the Rabbi forgot. The Golem rampaged through the Jewish Quarter, and the Rabbi had to run after it through the streets, shouting Hebrew at a clay giant in the dark, to shut it down before it destroyed everything it was supposed to protect. History's first recorded case of a creator losing control of his own creation on a Friday afternoon. The field has not improved much.",
+      "status": "legend",
+      "where": "Old Jewish Cemetery or the Old-New Synagogue, Josefov",
+      "tell_tip": "'The field has not improved much' — pause long enough for anyone thinking of artificial intelligence to smile."
+    },
+    {
+      "title": "The Clock Crowd: A Study in Managed Disappointment",
+      "tale": "If you stand in Old Town Square at seven minutes to any hour, you can watch something remarkable happen: a crowd forms. Nobody organises it. Nobody makes an announcement. People simply drift toward the clock as if pulled by an invisible current, jostling gently for position, phones raised, necks craned upward. By three minutes before the hour, there are three hundred people standing in near-reverential silence. The clock has been doing this since 1410. For more than six hundred years, without advertising, without a ticketing system, without a single algorithm or push notification, it has gathered crowds every hour on the hour, around the clock, every day of the year. At the precise moment, a small door opens. For forty-five seconds, wooden Apostles process past. A rooster crows. Then three hundred people lower their phones and begin dispersing. This is the most efficient disappointment machine in the history of tourism. And it never refunds anyone.",
+      "status": "documented",
+      "where": "Old Town Square — tell this one before the hour, while the crowd is still forming",
+      "tell_tip": "Start talking at ten minutes before. Time it so 'it never refunds anyone' lands as the rooster falls silent."
+    },
+    {
+      "title": "The Velvet Revolution and the Sound of Keys",
+      "tale": "On the 17th of November 1989, students marching through Prague were beaten by police on Narodni trida — the National Boulevard. Word spread fast. Within days, hundreds of thousands of people were filling Wenceslas Square. The Communist Party, which had ruled Czechoslovakia for forty-one years, found itself confronted by an entire city that had quietly decided it was finished with them. And the gesture that Prague chose to express this — the sound the crowd made — was not chanting, not drumming, not silence. They took out their keys and jingled them. The message needed no translation: your time is up, go home, we are locking you out. Within six weeks, the Communist government had resigned. The playwright Vaclav Havel became president. The revolution is called Velvet. The keys made the only sound it needed.",
+      "status": "documented",
+      "where": "Wenceslas Square, upper end near the National Museum",
+      "tell_tip": "Tell this one quietly. The contrast between the tiny sound of keys and what they achieved is the entire point."
+    },
+    {
+      "title": "Rudolf's Unicorn Horns",
+      "tale": "Among the most prized possessions in Rudolf II's legendary Kunstkammer — his cabinet of art and curiosities at Prague Castle — were several unicorn horns. Rudolf paid enormous sums for them. He believed, as did most of educated Europe at the time, that powdered unicorn horn could detect and neutralise poison in food or drink. Given that being poisoned was a genuine occupational hazard for Holy Roman Emperors, this was not entirely frivolous thinking. The horns were, of course, narwhal tusks — traded south from the Arctic through Scandinavia and sold to credulous nobles across Europe at extraordinary markups. The Arctic hunters who supplied them almost certainly knew exactly what they were selling and to whom. Rudolf never found out. His collection also included a phoenix feather, which raises questions I prefer not to answer.",
+      "status": "documented",
+      "where": "Prague Castle — near the Kunstkammer exhibition in the Story of Prague Castle",
+      "tell_tip": "'Which raises questions I prefer not to answer.' Do not answer them. Move on immediately."
+    },
+    {
+      "title": "The Bridge Built on a Magic Number",
+      "tale": "Charles Bridge was begun on the 9th of July 1357, at five thirty-one in the morning. Emperor Charles IV, who was almost pathologically organised by medieval standards, chose that precise date and time with the help of his court astrologers. Read the numbers: 1-3-5-7-9-7-5-3-1 — year, month, day, hour, minute. A perfect numerical palindrome, a sequence of odd numbers climbing and descending, believed to give the bridge supernatural strength. The bridge took roughly a century to complete and served as the only crossing of the Vltava in Prague for four hundred years. It has not fallen down. Whether this is because of the magic number, or because it is built from very good Bohemian sandstone, or because — according to one persistent legend — eggs were mixed into the mortar, is a matter of debate. Scientists have tested the mortar. They found no eggs.",
+      "status": "documented",
+      "where": "Charles Bridge, best told at the midpoint looking back toward the Old Town Bridge Tower",
+      "tell_tip": "'They found no eggs.' Two words. Take them slow. The palindrome explanation before it earns the flat landing."
+    }
+  ]
+}
